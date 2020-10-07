@@ -1,0 +1,24 @@
+{
+  "name": "adblock-resources",
+  "version": "1.0.0",
+  "description": "Custom resources and scriptlets used for Brave's adblocker",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build",
+    "test": "node verify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qikdauie/adblock-resources.git"
+  },
+  "author": "Anton Lazarev",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/qikdauie/adblock-resources/issues"
+  },
+  "homepage": "https://github.com/qikdauie/adblock-resources#readme",
+  "devDependencies": {
+    "adblock-rs": "^0.3.0",
+    "tap": "^14.10.7"
+  }
+}
