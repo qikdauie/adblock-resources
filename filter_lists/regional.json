@@ -6,8 +6,8 @@
         "format": "Standard",
         "langs": ["ar"],
         "support_url": "https://forums.lanik.us/viewforum.php?f=98",
-        "component_id": "gpgegghiabhggiplapgdfnfcmodkccji",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnbHn298ZQjKnWlC6NgkvS3Dr7Neu87d1h8s3b9GTlc1QNDWiYgY5IfWVq/1FBw2nUFE/v8fNJg8quq8Z2nS8dYiJDVSGRggiCooa0OTCARL0BsGxHZO6s2QROYIcxPVnzISqg5zRIBc+8npE68uVUrDR6q/KdJ8siL2hrR/NybPp+uTK44lHOEIBFm8ih1rC6z+Y5dHfhax0CuL6wlWwVNcFe1macYEcOXShwkUOADh6rEBQZKJmv474xJutmB8nIpGq7C2Hn2HNNyfA6tYmhVlsaeEC44phGITKDai03wFsWWkHQPEU5HwFzKQGIBFwudyO8iigO5m+d3XSzgSZtQIDAQAB",
+        "component_id": "klocanolefpjlibaimmgligmiiahdicm",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0o+gXKk+3oIltcvWI0zzlfmCGO7Hvsna2XhVvNeksk5GG+fNTjN6b305y+M2GEZzZPZD7rt7DjKF4KUbmXN4/60VGYOC4mhsZj/b3I8TbVmUtWXm4WC5oKubroPKOLzG7pP/yHvkVzdvEtJGOchUG6Td706tk0HR6594Hita79XxDSUh3IdURph3aUx651iqRRxyPVQ2gcCyJP2OWcNEk3v1ij3WKM1eT9yT1qqMUE5RxZX7m+8iBmp4vsDxcVbKEls6ZMNlBiUBHYj6/E6ZrARr9WGzJS9+bBjBdx5tFfSHkoyDndNDJd8DBwwlTduQGtbSgLj34Pd6tjQtXdRnUQIDAQAB",
         "desc": "Removes advertisements on Arabic websites"
     },
     {
@@ -17,8 +17,8 @@
         "format": "Standard",
         "langs": ["bg"],
         "support_url": "https://stanev.org/abp/",
-        "component_id": "coofeapfgmpkchclgdphgpmfhmnplbpn",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoqpe6QWKketr66AW+hKSxr5qds9gxmU72N20bG/nG8wfbPUdTwEqIG3m5e37Iq1FI0gcQir5UqwZZUgkum5dWJwgCB1SOaVvlZrWZbTbATKFcePswHqAIXMfS+wzMA/Ifoky26dE4k/rs6J/zQEbeXXon/ikjGJ7GxYeHYMBz9DAPQhcUoBlh1C0O0vhvXU+kG5DO4wdIt9W/cXJtv+8OTZ6HiTJw1j0jAliFZI/jhkYB6MW57OBpBYlWJQhMbLbK5opXq6d4ELbjC1amqI1lT3j5bl0g1OpMqL4Jtz6578G79gMJfxE3hA5tL0rGU3vAmwck/jXh7uOOzqetwdBcwIDAQAB",
+        "component_id": "nidbaemcfkfnklljeajjnkmdilfckcgm",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1SrcRhimtUY6o3Qf/GLiO5hWEMvWD8fE606+GJLzxmQWW3LU0shvOIg20lALKxjJWMfNDLtS7vLGFYcOwe7lCzZtvW9ZJOh+nyNDtwPHlNrQYJ17Ll/oEMUi6TDMXXjQ0EjKoWqiJheZwTSX1ZzHOfxwUZQ1VaZFmx8SXeFOXYSmAYz1jc/567QxgAzdcjGKe+pyfQKUW8SvkS0aFGagJ5PHHMj4GcQRr82Ti+H2zb/Vtch3iUJihtJyxCCMxgjQ1t3WsvLZOaW9XOXzcU9uv6VtgSpuAnIazPKh6wgoRzHLgiVUeBmYgA5nPyZT1gaRb0T8q2+4dNLWTk+WrGzBBQIDAQAB",
         "desc": "Removes advertisements on Bulgarian websites"
     },
     {
@@ -28,8 +28,8 @@
         "format": "Standard",
         "langs": ["zh"],
         "support_url": "http://abpchina.org/forum/forum.php",
-        "component_id": "llhecljkijgcaalnbfadljdpkpbehakp",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyahWbgHuWAI7CkBdclxOlehPVVGuG8u6bPi1vs016Kbhn9GThEVIP5qzAFQLA3jRrGy5B2nncdaCnibf7BkGsNR7nyQQuXAI2FGk9qCm36ZF7FI/yjtN0S0e6LzSswOcVhTdPnVkxYY6UDuKyzVRxgbF9Yg1aT45NFpJFZKFtKHexnLiY6KlZKV6GhY1jucjo7W77xdpLaspkYbQ69UvDlSA093InAzzikuqBdKvY0FPvC6pgiefqWTMa4M1cZU9IoIiukqrpXQn1tC9PJ8CU4XKCTshaNbpX5wxY10rUl7i/WHNcXCfmCXxKbqRZ1SyH6KiiBrDpSnfKXxrQip4GwIDAQAB",
+        "component_id": "bphdaenbghbpikoadjfghiboackbbkhl",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA26/tvvIpVc9IcoMNzBn2JezJigCgYp1dj8eZeDzjA+qEajslV6nuuuO49SrPOWeuIMeh6f+Ye4aokNK0V9E2CzTDrVfWktHqQWSzbWREfJ3Ud9HQN95jnjGKoZY5a9897RylpBwBA8E5mvElEvkf9/IlaEtN1tKDJeBB1o5ZBlxRqoFJN76lDd/0PW+GNbQEZGVSWqM6S+Gsj12ggdChf+p3D4zWKOfN600JcndXN8DpfZ3fXPeOEguyqo28pV6CtTecdh0LyTbcxKJF/45dhSPaZnvg5AbYNaUsYiSB7NjY1bBVQr2wsJivNPRNDduuQUOY5UgQKB5ewG5JEgo1oQIDAQAB",
         "desc": "Removes advertisements on Chinese websites"
     },
     {
@@ -39,7 +39,7 @@
         "format": "Standard",
         "langs": [],
         "support_url": "https://github.com/cjx82630/cjxlist",
-        "component_id": "llpoppgpcimnmhgehpipdmamalmpfbjd",
+        "component_id": "gmfikmpoonfjhnafmekimklmacoefhkj",
         "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAudVtKg3tZbgealGvVzbEL3yP1YWdt6GRDreqy/b3kCce3AZ8WroL8jb6Zj/aapBRCNxBezXzij+b6QiIH/l7sn5Wf5HDs5Vnrx4fDvGRtSLpgP0cSuFGVDx71TQz4X+AnUubOeHskIlJJAT4t4cHWs9c7EAl3ShG7DtvL2qHG2TUfJFqYOMOtQd2qG5H+X9zAUFP/qRHT55gzce8h+SXCsvdK4B8XK1cdvbIykllbGPzZr/TANn9gCtMKxUfk1qFn1uYD6mzg80KJmof8MHbLon6KLMqywcqfwEwvoivxo6f5LkOUjhqDYZEQ5la3h7lFfHKz7fCE7FCww7bQ028lwIDAQAB",
         "desc": "Removes additional advertisements on Chinese websites, may break some websites"
     },
@@ -50,8 +50,8 @@
         "format": "Standard",
         "langs": [],
         "support_url": "https://github.com/cjx82630/cjxlist",
-        "component_id": "lgfeompbgommiobcenmodekodmdajcal",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtAMyjMBZCbqNIuO01ZFJ5iKmcNFuJHXIUqhO9s6j6XnBAfak/OOk4s9k3maXyhaynXVpYATQyRHR0OEpmsQawFgKCmVm1LB68jxJ5Hh1ZITG1UyfznYnozkjBtzdkMGKeuZFBaHo5PPueHVO7yJDHvU3UFW4vCJ01twXiH4y0qaYjL1CPr58J9U0oKxptsfwEC53WcDq6mKtAKRpyxN6vbtFJ5/li2yC0Ms+8Xe3Xv5ovniM/4vNf3Jn1w0jzgrDRcW2VhxpydsH6q7oaR2igIzJ+XG6/k0g29CJhfT85dJNF31TwqvoI+Ju6hjZrEmSHmC7gbY7gN3ak+DbUrQxjwIDAQAB",
+        "component_id": "cckbnleoabndjaijjbodojdgmcedfnhc",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArm3QYIBnyGmYj1KQGTH1Oop2QW2/yzSnlRp3APrE2Vr9QeP5jvG6FhGQXA+2Wzp0l8EOcGVNcFSDel6pRWtjps9Q+C3oQgcamF/dWe3tzLR2wqsTHr8jautKAN0Ae5Zj+luLZLf9blgbvNvl2bYnzle0Wa3FcUPcEd9jViNGdZf2spAj5+FBGJh3PWUpBNtCKBsd/HAGFDiAYr+Ae68Pkp9hee+gKkzMtkQORHv6qEaIhRFhaFExDIAkClTjcDdbPhz3Nir2h4qUIsJdauYmIcW6jWZw85Cm1MyZO2Aam2ZFgwVl3kLx+NpSsJ9bahPfDjBr9HdsPU/8ZKJKHDc2/wIDAQAB",
         "desc": "Removes additional advertisements on Chinese websites, may break some websites"
     },
     {
@@ -61,8 +61,8 @@
         "format": "Standard",
         "langs": ["cs", "sk"],
         "support_url": "https://github.com/tomasko126/easylistczechandslovak",
-        "component_id": "omkkefoeihpbpebhhbhmjekpnegokpbj",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuYBXbfloR5HddFlg80U8+pf5TqfFJQAf1bL4myp9KfGggwqrjuRzIkPOD8J8IvCp8tWv2f4QK9sAPHhtV6w1cnYX24lKxrQ/lHHAV6/CEcFa+2Yk7cRLKDC10H3r4FMRoCeAy/ruTjVPfIw+GuAfFYl1qYWBNxvW7XXw7cCIIYL4j82YQF6HjsWbTT+QHLCR6h66wvIyVQC9ppjJPxDaEevjt4tohEFAB1NBC+Wxt8H/P5r5ayNcLnb9Ygt75haYL8VWZOJhO/neSTyuidTFG5ox2Ruc6TXP8t0IqpVtiZUDkx1jzUakIHoKNMBc7oz3P/SQ4AanZsIliJobXFeUiQIDAQAB",
+        "component_id": "lfgmbmkaebpmhndhjnkbeepkagponpam",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzCjjXXWrNFHOgZhm+GKkUomwYl6zK+mfOybCKrcDaiH0coR5pixAXDEiLfJ09RL6iKm18r+qAIUljy1AGOq5VgFphrhGIE2lu16izIZ5ZK0TittOVJKof3seRkbI3LgjKWm/ea2xtlwyE5iwdbAkFBUtSuBxNvhwTSuv2BLn5FH7kGyhQBD3xj2Do0/qzkWD+S+ldBJ2qsWbheDOtxFiBKrzWDfnT3Qy74Pwcb0JzJV1g9pWtSUyCuJCg6Um89eX7ivgHAMv08mh6b0euoNXSmCixp8hNoDSc7JARp1Eea47jVs+Fxp8UrKPPuDOhGn6iXd+4HO8XmVeHwhwnrik1wIDAQAB",
         "desc": "Removes advertisements from Czech and Slovak websites"
     },
     {
@@ -72,8 +72,8 @@
         "format": "Standard",
         "langs": ["de"],
         "support_url": "https://forums.lanik.us/viewforum.php?f=90",
-        "component_id": "faknfgalcghekhfggcdikddilkpjbonh",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAu1CpR7Asj+2wl/1vM39WGUrHQ6vT+nuo+XSL7VzTaxW7g7el5lUC2X9MaaynfK7gOblr5Wnf/mjSJJZA57mxogjOCPP8lF0c7sOEgeO5L6hnDGB7sonCEFpHnBEn8VOZDvmqEb++AiXUPBFSnAOt4Mouck5CY80N6Sqbt4cxUBSof/NsGHZiTvCN7fJpW4ajLOtbWhCAmBhdG0VHatBG+Et/Z6yQtxEYQixKQNHJljiq55MzuE2jfGOZ8MAjyQdstF+GGfF6WPqnR5fd1rECK3OsI8zV9OOLPkjKrKEnlMsaMFFFU0T7Ly1UALehlWXtunelzq1mGvVS7vV+5aVR/QIDAQAB",
+        "component_id": "nlnenifdihdeibpojdlapjllpgdncfje",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0246y/KyPUb2vWfbBI3+wIG1v8bV09JfB2OPvMnLiWzbwkby4p11slXnioSE9iLPHAeswXYegDpUYUwNt6qV3RbwRzuWQsnsP54UipBbz/Q9fdu7cPsgEbGln5tmOeX2VNv7lAPScDrde+vfl9O6Q+QiPsJICyEW50Z0VGC3MvylCXUNIbq3BgeA9UvSGqT+93IVAIU4TGDDzyYv4Yv8FQPkwPiEFnWjuZ8fpbi0u7aUKgBBDWTVTear7X89tnKFa6Pljn8oMQR3Sj/0WWpWQXp/Nc0WQ1ADzhKtbhvkvYhEqVR5MOcqgPVU91fN1V8dxFOEPRchxOT+7uPz2tCYEwIDAQAB",
         "desc": "Removes advertisements from German websites"
     },
     {
@@ -83,8 +83,8 @@
         "format": "Standard",
         "langs": ["da"],
         "support_url": "https://henrik.schack.dk/adblock/",
-        "component_id": "facajiciiepdpjnoifonbfgcnlbpbieo",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxvmMjXthrTjGl0WDrL+4qYSVao5vKPGerr2VeUiZ1o94+P0IJyZzq3d7UP2nOvhveGl15YYxYss+sD/sUkUW57XMx+H4TF5OzGCwV8nkz4VoMIfEU6CKgYmRGHV2VoMdIHG7R++jX20+GAoeBw+aBx9+AHlBouf1kvqbkutVh+Bre1cVa6YsgsPVcmhiEp7wjz2yB23f44+pBIQgWlKWn7z9e1osG4LUCGk6gavtRoNGS3TAUf1Sq9EUibFJVmBjujVoiQKD8GIFKmLM9Fxl1Q+xgG2PCCSBz5lSesHkphDpwhszedurpKbWsnsRPqbqR3GmpceKQheWL/Y56tf2gwIDAQAB",
+        "component_id": "hginpelbicbjhojkofldgkbkmbpfkbec",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApNNJpmEh1VJG85lRT+hPUFFn+fLC+MGps7EBcreJ2DHUk/TybD0GeuhfWG6djbF5jwaepvAUX8yg7/EWaUsNS+9NVrJpn5aV/wmE7JSydSB0jDEgld+cIrxgoOQ0XbI00Wd4Jxg2Yqdaj3HfyRghc6woJETUwf6GbpQfDF6j35PUxaA1/+Rw0CNJqCgracgvIRMo/GrBj0ieUOxjgLgtmtuhKNPmcp8lQGHIDghVQpdREfgIBgjFvqwkmYz/u5ChkCCWZSfAIQAIIb2wn71R2LnECl7PCOqFid3XM8CBwh3ifh31mkZ+qss6VeFg0lgq9d+svUQXqUMNKoAqFi229wIDAQAB",
         "desc": "Removes advertisements from Danish websites"
     },
     {
@@ -94,8 +94,8 @@
         "format": "Standard",
         "langs": ["et"],
         "support_url": "https://adblock.ee/",
-        "component_id": "fnpjliiiicbbpkfihnggnmobcpppjhlj",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnrl1tavPfozqu7CmqNfVUtZfUlIitbWpFBRn+HVW0oEFUNqAwNlwHqy9QZP88wKvb5N3EJj6NAq6je4ii6nMkDn59teNzGA4m8QSkeOWT6pNm98FZA6HNHPnhnYSG2sT8tpQ8Uyh4ySrxj2ijVM0Hc01WKQ6zjkvZWOuZWllsCejRZmxGOLUUy5mtKhIfHiuleZ7AmKx46AiVFvrpvV5x8G2HKAlF/uDc6LmV0lfXcROt5RlY+kD/sQ6wKcatibpHbLoRHOJx3ac13+pvt85773af0MdrvdCYjxvqn3DJlKw9qqk/B59n+XdTmWcfC9k77Z0teoMM5EBy8G1nGbelwIDAQAB",
+        "component_id": "jillckdpkcjabikonfjpmmapijfaaibl",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAntw8tnePy+sjGOwwoMv4ZaeyLBkbX4It2JLd8JpedjG6h41ZUq3Z3IhiwvWoPpVo5Z2dQej+iv7+tYUsEPKkbWo8UXnEMnOOPKYGw2JPjokkA4a4X2sIODMz4fXei/3h5CqRH1QAR1kmU3a9MvdrU37jFDFjO2JOhpecVkMX4b2jTS7aLhxu716l6Tia7kDhuVnjcMkfgOzUHgKa4J4MwYTW9uHBn9oi2pTceWkBIrBPt/9zYCRiS/trlYJxxt51EO+JUMP8JxNBLYqDDK/Vo4/uJFgD4mNpATCEKlNR4MNvEncrzTTGmL3c8Z4VKjvo5QtpAcDzK0qbI24P3oTzswIDAQAB",
         "desc": "Removes advertisements from Estonian websites"
     },
     {
@@ -105,8 +105,8 @@
         "format": "Standard",
         "langs": [],
         "support_url": "https://forums.lanik.us/",
-        "component_id": "lfgnenkkneohplacnfabidofpgcdpofm",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqNcRp37CBZCXe1vbmXyobycPxHyEKNIgNl6p0XBBxtcZcQOijpY70GjCRzgCL7m1+FBo4MR3FXLiF2aPn/QsUR8t7+zfw3XzBVos4Ssexkqpd4/4ciASwTXpbuyFOq4Z5dcgJ1afeT9Zj5bmh4ekLpgJ1NzVwCMhEKk6cmSKIaGVo5EEydtlor2nkUJrSFuZA6tYZ++4BOfhhCtzrvXTZjg7mTlB6ca21NL4oLwtqvJMtF8ddoumh619BB5wOqxLzntC/oWyOxf00V5HDC7e/DRj9J8jLRFLd4EQUO4Mk+kG3MNy0ph9cqdw6zFR7a2H3LGkl4ejsifM1mUDuJL0cwIDAQAB",
+        "component_id": "cfbfcdniikbohoaphlpkdhnjkfgjnmdo",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArUgWT7alpn9LmyhSyqkH6ia3zwwCq+/Io3BH6wERI1O3lgfMvBC3j8mwGPfzU23ZlZI/0k+TpxUhB6KE4fZOwY2aftZbZlrtF+IwsKULLZhDSjg9fmhkLsfZKlDmpMRDx04SczeeY8+O7Ii8N5Yt4g5cu7urbcYJc/ongD/RFT9GDZghYymVBXswubYgzZBMgTrOXARA+bAi5RXpMrB9w6ni5JPOiaEWCPP6kyPn5fmss6PF/thzJot5pInEdEV54JvHOoApwJRtetNmBQHZnOYwvmy31Mlk+/excMS9xryM2seKucEj60oH5Hu/syVR7exzGkFSVnZJrUVDMN5OdwIDAQAB",
         "desc": "Removes obtrusive cookie law notices"
     },
     {
@@ -116,8 +116,8 @@
         "format": "Standard",
         "langs": ["fi"],
         "support_url": "https://github.com/finnish-easylist-addition/finnish-easylist-addition",
-        "component_id": "kdcalgmhljnckmnfcboeabeepgnlaemf",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3seBXoyYSdtiqNAIaS5v9jP6Pr8xqgFnZyHknxNsC92fHyRW2nbuwMr78pWA4vPIyV6BFG5jS8k2RXEbWiOKNNsw7nWlfT4QMwkEu4uU1vqxsNDtdc1rdrc69aBegyNOQBS+W6aP1ESHp68AoalYKMHKpc+fi00sdQwYU9Y5oW9q4uRX3baAyuGZjP0xuKN3t+T1QnhbhkldP2WP0ooU/VRMhy2rYoE+W6eQRGrghJJG/wWznz5AiPD9EpPST/hoVWOKVco+12IbdILw7yGX2c65xPcLr6obVR+549QrgxU0W02XxS2lXKGc1NT2Zdl6ugh6XpW1RHVz7SjLIZgifwIDAQAB",
+        "component_id": "bggocmhbpdcolmmokoamnhhhccnkijle",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3RyaSANLJRZYZ1xWRJHZhfLeEK/RBHXRw56Z4OIM54YBoi93amUKA9HrmbkAKwMy86VdnA1QwmBbZF5PFJrp9tq38R/waTLCbTQ5um5ixs7mu2OgXBuDg5g8xTo5fiz+HRVWKNagquYlnm2GbB5nXX03NnrrfFqWkZ9vwVmlgJEKWTy0GUE/TZk+PWLd5eK46s/0L0X8hYrtm+EoEbug7pPs5/IApH5rZWv6j1XWGOFSUY7iumdfkBai0dRyyDZLF4PHANdfHr/AFS+/vdouw1hFD5Szq+8ePalUU/SWhVeNzCtW2FPHhKZGbEhchOo3I++uwPle6+9aQT46r+JfNwIDAQAB",
         "desc": "Removes advertisements from Finnish websites"
     },
     {
@@ -127,8 +127,8 @@
         "format": "Standard",
         "langs": ["fr"],
         "support_url": "https://github.com/AdguardTeam/AdguardFilters#adguard-filters",
-        "component_id": "emaecjinaegfkoklcdafkiocjhoeilao",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsbqIWuMS7r2OPXCsIPbbLG1H/d3NM9uzCMscw7R9ZV3TwhygvMOpZrNp4Y4hImy2H+HE0OniCqzuOAaq7+SHXcdHwItvLKtnRmeWgdqxgEdzJ8rZMWnfi+dODTbA4QvxI6itU5of8trDFbLzFqgnEOBk8ZxtjM/M5v3UeYh+EYHSEyHnDSJKbKevlXC931xlbdca0q0Ps3Ln6w/pJFByGbOh212mD/PvwS6jIH3LYjrMVUMefKC/ywn/AAdnwM5mGirm1NflQCJQOpTjIhbRIXBlACfV/hwI1lqfKbFnyr4aPOdg3JcOZZVoyi+ko3rKG3vH9JPWEy24Ys9A3SYpTwIDAQAB",
+        "component_id": "fobnjhajnbnebjmlhhacopojmckggdhg",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAucbevnogXKZ4NkpMnBBOCb9OC3PJpiZTEABfP+O9xvNChdWUft74Js9ikp1Wmq5Vg6LrjbE7k6Qy9EdWe+w6SwUllSjZJGF6oCqXk2qLMuhtOCb3DMB/Kajz1FFfK1yyCICSNd4JGuGJPvcVGToaQqfNI5DuDw6z/pwu4Icf+udcN9oirlyaTMpqyCSqZ5CMkvY3HIKbMDpH/NDUcxKhZgGtrsupWUKefJ2Zt4PzDI6yZwBYoEnw1tp3mW5DWXyO1ipW67bejrer1qmoZOJAguucSSz2ipQzEAz98jDXp1eqIudVN+EXWx7pWYySLdPN4UOjXrjK54+sUitTnjBX4QIDAQAB",
         "desc": "Removes advertisements from French websites"
     },
     {
@@ -138,8 +138,8 @@
         "format": "Standard",
         "langs": ["el"],
         "support_url": "https://github.com/kargig/greek-adblockplus-filter",
-        "component_id": "pmgkiiodjlmmpimpmphjhkodjnjfkeke",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4KGRug8Rw1WHk1BPfIdtdw7uwFijUac7jk1lb99lEfSq2uPV2bKCk8lLh/6ahlV/EjSN8mGiFfZIVTDFhuYhVuIO8iETrCZe1ChoI0F8ptHOPQXVPzKUFMpkRqAnH51vqx+3gG78A3+iGfAE+LjerP1j4Jx5jSvTkbN8l+RqKMtjaaL9qRHv3aRQtYB/shGgdxKeOR0f8E6yJ4tIRDHB72bDufN7wbnRoHCNnLkrAPtbIwpWRLKYcOxAB6QqKNCLx/UX/pWpGtyJmMQQBpxQgl3BT8daNp0h4Soc6VPZA9wEIQ5/a/8UpsBT9rwJGj5WdSBPSR8D54aULATPxsienQIDAQAB",
+        "component_id": "mnapihijopcniefibhhoecfnnhhkahin",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuvNGazl2RnH+qPyQYdeLwih1INOW9vWrWz2fQp80eGT2F1fvYSDIxqDiFyY0I4q/X7HzSjlOBX/kulBp3ZINjZhl3Krm8p0CKKsxxKHkjGu2HGn0zmDIw6YBhzLohv0NhIPq/QPo2U+do+FiVnF4Kk4SD1n4D7DWukxA+sYvhGjLimlONlnLDNCpyNvFkmi+c8f/EXLCgeRSbklzrRU/I5QSIp8PJRp1BnLD9ENwl0ucBGlVK/q0K/1LH20voHAd3xGUzLaHYEm/m/iMBxvI9UiCUX0S3/5PEn3fzIrCEj3huYFtbQb5GnCHSeKcVbSIXx+wUrwkqPHCMzZrFwyh9wIDAQAB",
         "desc": "Removes advertisements from Greek websites"
     },
     {
@@ -149,8 +149,8 @@
         "format": "Standard",
         "langs": ["hu"],
         "support_url": "https://github.com/szpeter80/hufilter",
-        "component_id": "gemncmbgjgcjjepjkindgdhdilnaanlc",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4HNXDsDBPP4b/irxacZMYnaPjNMXS31e11nsFBvN9lFOkuwF3bEk9uEk0fDzocF6GSpXbUE0HVTqfKTTnZfvG9m+C3nT8j6N7BB/wST72s0zXCjSlLWJPGmFnFb/EDkFAGmA9FU4C+j28Obehd94OC9pSqu8DYK4LbMWPmk2fgpO9N3ZV/5Y2Ni69WKJwT72prSMzyVVEAYluCYPQWY93g6dJ9RBtwnHCmdK5TG/bN2q6f50Cw/aJSv8nshSdp+KJK6yi6fBOxF5Xb0Bj+xZGC4K4SW9JjElswaGJi2PX5I11w7xC24jNaW6BUHcJ6IXudIVmBFQxWWxkMVwfgqNlwIDAQAB",
+        "component_id": "bclikdggnkmpbjkhkpphllkighlbkohl",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwCtTOj49v6UTtoR9Xwn+Eu1YZnN2auROajCtW7HeuSxxi28WWUyeJ3G/0Dt6GEtnud2TE8YN1PyGmkmT9aH2EAZ/9PyJALvk87BX8z9KaqEakXvlX0NlISstyiPUwBLngyyrwmWsoYDtSo4sYx4qPfQqWgPuFYCu4m3nicXkjAy1o8rlusjOmdGU4VANAEEaC5s/MqmXi6wS6OEtCxlUCywfFxJGlPivWuo2Ka/x9dBkH+gI/nBJtHPDpylaFxdQqz23issyOk4IXDJ/4vtdfpDWmktdEyfPnQAnVfVAIhT5SbORI0VMhYZ1JQqijeCAMX+6zceenmIVHu8yqJT8aQIDAQAB",
         "desc": "Removes advertisements from Hungarian websites"
     },
     {
@@ -160,8 +160,8 @@
         "format": "Standard",
         "langs": ["id"],
         "support_url": "https://github.com/heradhis/indonesianadblockrules",
-        "component_id": "egooomckhdgnfbpofhkbhbkiejaihdll",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAptA5jVa5JkYI2jt905om4OLSHGahwgS7tu7GG0sk1YNafOo4ajKrN96Kxj0fgwGrJPhU1UiTDmrgLTZSbuC3hAscbfhuakVNo1pyFfSAVoLWSrOq5l4k6zZK+y1ahxdyJvlbz06RWE6OhIqExxGqLyMjEknkPGxBVO0cKcYHiGYUxvVPxQOg+9fGieXMlSGs/L7Mty1oJOoZ4JcPIFeSvQ5ax48E7l+yAW6psNpPqRAZ5fm7hhZXjd5+3cfXXIMStgX3X0MUHjx2KpYlv3NxMjaZQOAZiuZ3W/H7VWnV7V/ScJ9Eb+e6iG4XS15f7vFQu4zPy4UTYOl6gXnIGWGmsQIDAQAB",
+        "component_id": "indcpajdkfbcdpimnffpcmonebiadndi",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuQk3HpzDaHBHswYyS57lRNh6+UBG0BgWw4cxgGDrOPGu8r8uUP4YNbY5ZpJi+zauNvbg3p8fLUXrUA+fPnawzVlZKciOXZR2wCNJcHn/wYsJLx/Xde1iy894k6t43md0DtRCoraidhrhQiG6D71jJJj+aTGkG/z8uPN9jjlhaa9ImuRczEUCFefq7xkvRHIajYsaaSmUtuS4SD4E5duBJST2kXDxmcl5v5Uz3s6OGRC+KesDARCYyZPtNlFvJDwpU6g1zeDRj1NTTFqIuorwas4Umu8Um5juXqQ8Tcmq5NR+gf3HPogHimbE4+rnUFXrkfV1uLKxBm219XI4afMekwIDAQAB",
         "desc": "Removes advertisements from Indonesian websites"
     },
     {
@@ -171,8 +171,8 @@
         "format": "Standard",
         "langs": ["hi"],
         "support_url": "https://www.fanboy.co.nz/filters.html",
-        "component_id": "jnnbjhbkmgggeoplhadmppaeddmeapla",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1KcZJ8dK2ANtw8x19l0g1i2sSsg/G6AJNLORsw+Uz9g6sx7pUJo8TpjyITiwO366C6q/I2KwFpuc0NgGvWs6nLMEX6yaGO8tnrza36Dj7GFTQA9+H0TQxuZdcOfZqP8UakA6exGOl0anzAt/HQB1Gf6ipKilS0M4PAnPwlVaTRmdKxQwqHQrpfWSiKRB3MBG/OT48y9SXKToP+NAIIfVRC7TxPVJ0zIu41UDfU3Mx6zKOBcRfTnhmUT9XIEv2lAfRDyEDXTGg3nSNluZM4Bu4iQKpxj+x7oZDpQMkrpVBZdjpIRMPiD6aMKCo3GULoH15Fb7re5RZLJIxcu0+B8lPwIDAQAB",
+        "component_id": "mgnlldhlfnagjocdfinjplpgepplghdj",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA02b7B4OD1YXdTpEgUvWW7Ag4N51MXCKWmUuDseTxgTadNEj6hanGRQDTrBi0HNszRPC9/LfiiAgUSvNpJfjUi/8KRJRfQytZ0bZ889w20NloRRQEs4rOIyTZ55vYKcCly9zskXCgMfV2XXkSJ5k4ClYm6UGKk468/NL+2nq8/Vf/H35MkcxrRbRsBeGEVZJuUfaw1q89AXdTqD3Iv1c8x09bhaS0lhClPp83x5PB+mczwSrsMe29ZTUk0xLo9qh+CW5uXxfbiKYtwa6s+CntxfHSfpPLqhYc5tGPEJ7JjjZMxzghHh2QIVFAunTFWtwgZLQhnYay6I7uXDf91tgMrQIDAQAB",
         "desc": "Removes advertisements from Hindi websites"
     },
     {
@@ -182,8 +182,8 @@
         "format": "Standard",
         "langs": ["fa"],
         "support_url": "https://github.com/farrokhi/adblock-iran",
-        "component_id": "dbcccdegkijbppmeaihneimbghfghkdl",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm3AZE2ne7R55X2j6RxAQHAZKl1hNPgwLOFsYpfAJ6m0uXmKJspguWxatJ9jDBbYLmtXnwX2WORILq1+r4kFtTcN8GNYe7/7o5yDLucI/W9d2vCjmEg95v50MzVQZSwd2gNZVZtL1s0S6pBwX0zI+6kHIFr2xqGV/FNE8L75f30rriQ0xKmenI1OWjyn8gNqIp4mKZW6XxkMRRS9+e0ynDi4ysQA9Ub5YHJxm0t62eqTmIyemgRhP6Rdbi0+GXbqFPjDfC26rtD3wy5f3aYL1V+2ADpdDyCeNlwCH7+vC7LWujqNTgK8wVJ4eH5VbUKC1e9cm/T57OsHJMDC5fbUuswIDAQAB",
+        "component_id": "jccojkdopjpepjcjjhnnldhjpbipoonm",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4XG27euMlCHHMuYIOnvdpYS8DNe9G9m7EldN9k7+XaNoCUcEIf3beYU8Ohc4mrhOK0n+bbKOiouJ6BPLm69T94/Mv9XZtjgExVzBWL3Y8GVkW9t6VoU+d9N7gWrFoX4ttu0O+7GyjHMZh9oQSOkAcKtiBuUglN9cxnvwHgpLoR1bbhmB7Zigv37BnYKMayJE5L7K43bQITlFZh0O+fxrPCGv50IxQYZ/H7wjI8o54mb6UlX1OnWvv45FOacoqDoiC14zp7FjCZk4DJbb1PV1zBX6/Ddfub9tx4jEmcXhAwOwO23kusGyyjRIhKg2QB3NYPLOYhR8KMjFmwfN1JDuawIDAQAB",
         "desc": "Removes advertisements from Persian websites"
     },
     {
@@ -193,8 +193,8 @@
         "format": "Standard",
         "langs": ["is"],
         "support_url": "https://adblock.gardar.net/",
-        "component_id": "njhlaafgablgnekjaodhgbaomabjibaf",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqSwaNKhg90HCheaJu3sHocbZUjXDs90I0OmijNkDeS291wUjvXAm5YqhNE8aZmPSMVZBjBCwKXrrtTOkMA1b1uBqJ2P83fCZsgNZWbGTD8MorMrU6vyqkWCqLRc+bTTUgzAd55ckUJ/M+HVnjo6QfqUuB3kVzjpwJorQQZUYOLcgDY/Q5/tbrXI5+OGVxAb21pmnk8JHXNNWB2NvpA2o3p0ke/7WEoUH24l91ndOkXkN87eO8rSysl07Eq7gshbednYYiCxRPjuX0aPqbXMYNWXa5NdvIXFJcD2xV/l/QvXRYl+7Ca1igSXaiKc5eJyKSRqY4lf2vG0XCH6VZVxZuQIDAQAB",
+        "component_id": "gemifpfnghahnjdibnofimjceoniljff",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAywSna91tIOXoteui1Z8ypgNhTdB5iBvDnDVE9kfQxM44o8tHimTb9cqYPircRRhvy1dqfRNVf+Dm61PCe9WTYNwhTxzh4ugMKDB7M6rAA601PjdiM+0AnL2sqnYDP9bhJYkWiVdn0tAGDqQ0BEEtiyKHSEEIsl87W8S1dTg16Nc3hONtXnz2e7wE3wjvTPrNpalrT/aVu1G5tKXhs0+hp3sfXMcE9/Ny1kN132bhoQG1CHpdng40FXO1AU3fvMHfWvHyUCAWytaA6AOn42FNnyjJRV0YL0ZM/n541GxhZNHbIvGo5BxKuKlIfEVuUVkbjIvDLoZsSRjupyA8nT/vQwIDAQAB",
         "desc": "Removes advertisements from Icelandic websites"
     },
     {
@@ -204,8 +204,8 @@
         "format": "Standard",
         "langs": ["he"],
         "support_url": "https://github.com/easylist/EasyListHebrew",
-        "component_id": "hjeidaaocognlgpdkfeenmiefipcffbo",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoUnmZ/fnWAGhAywLBs5IX0OMxK6LOwtjljcwEkt8QD7ZKBekxq+MDrUuRPzav3ky9IyREhXe9F4UWBKPDD8ZQXZ57WQAAMAp3IxbgdAsTqqTEEReUVx+pzjl8lxdp7xEG2gpuM5wq7bjn4zJ3kcdj3vx7bec/YbYf4fV0brQPWghKf2sh3mHXOVh68wEFXYBvcWkGXfuBoRbB9WLflqZYRk3GrLllwBLn1Ag6iuKucvoyv7N23qXKIjqAhyKPmHx4l9w/v2c1pc3NB1af2xvtRWaQp19N98QouFFx5MwAI9+jR77Eox6QvRwA+L9CFkYlDTvT/aS3q+Zb1QH/8AE4QIDAQAB",
+        "component_id": "ljdfpffofhmoifpgifbkofiipecacaok",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvDDjyt3bBBxEh6u0AxqStq5wCiODwvc32tfCqN0zpJA7efRwu3MmlWxl9DBOzaS35P296XJL8kMuOfH+Fp4arvsjx5FpeXAfuVKqfV1L9ddZ7XQIs7uGt1GAYOCWSsc4cTdg8SQ0Lvou0Oc2fBosgbdEC8O/HtlkDSXJyZBO5LGTLciFhMSIgYUrUUUcSfY558shBONdOBhwGpBkDnfNRYj+spnx6t5y/DPlyninEC6IeIGNkFEwsIcTDqq76qbti0G54yS2oOY0M+Ig2B39y9pSOWwOuE6Z9EeLRx8Hs7d81Ucj7I6gVaPq/yNrV8/wXkZRUw/KC/Gn18M3Tf0mNwIDAQAB",
         "desc": "Removes advertisements from Hewbrew websites"
     },
     {
@@ -215,8 +215,8 @@
         "format": "Standard",
         "langs": ["it"],
         "support_url": "https://forums.lanik.us/viewforum.php?f=96",
-        "component_id": "nkmllpnhpfieajahfpfmjneipnddhimi",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAurn1cJrIcCa8P7hjGex+OUHi19PRxmjJ5DuQlMAeIaKibwaQOZEPXSvD+O+xgxHZJs1o2DE8zfj6yrAmDfu9+/T0ArT2RWuopDMEfaKdeG0ylHP62WJC+KGUhCiTNmLyPxbU9AiwydVyFOam8vs4Tr+9I3lYKVeClQrtDRM34BTOAsuHRjiuIKoC0jDC2kc+BAsAbzhIdrkEDGD+qx0rCRnGL6c8xODe2PLKSkCSIsqOk44eYOkBqQd0SgmCvQjXS2XczMDNuV7DCZofErsy2iEv/2kzhkkN8GFwbRkYGN9LuK8rtekE34AvZKRHS6e/pHjUCYJb/2xv6elC+VLsJwIDAQAB",
+        "component_id": "ncpebapmlecldaofniajnjllmefnojof",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr6rtR2pHYziFNPwqLVm6tUN/B9ZfVlsqgvHI2BjwJkeY8wJ26eVKdxh0sFi6Ob10YrAhPd4PMiyCX3Jr70tjhKkIPa4ALJ2W+uPNwYixEHnPYeLGEXcCjDE1dWaDr4xt1J5atqnOe4b5dRaqh/Lz1U3k4c++pkAd0ffqZjemCTgIuj6Oc8zFRFhrvuZ36K+cxx5YudTMrbP5DSnhCSITmH/fmw+8Z9ATnICGgLSgXoAnOo/wBvzyilhZqImaaJbebmViaIYt9+WjHBEKYyxAH5nwILM2m9jRSRj298UZVCfmRN1L1glzOe+BpXxUK2tmqijN2DXtYGvfamMVPVOSxQIDAQAB",
         "desc": "Removes advertisements from Italian websites"
     },
     {
@@ -226,8 +226,8 @@
         "format": "Standard",
         "langs": [],
         "support_url": "https://xfiles.noads.it/",
-        "component_id": "agfanagdjcijocanbeednbhclejcjlfo",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsorIQuFuMI5OaGYaYTu6+kZC4j3qPoWRoD7F9GS0IJC+VEk3XQ7UTsRXlrIxP9obmC7+pByP6hknBUzvKKS9I1v2voIqjUoydWOozbfoVoRhTLN3UiDnoDueXqXiv1MGLzY/ZcsxsxAlIiTcE7+/KdM6pJ72Mn/aLKU3escIJ5E5qOHJOFDLW9587JeWOzexaCOrtiZMclE0KWbUi7qB3Bz3auF6piSzoNGeI1NMwHSSAwhDOQ3UK09aqRKhyfBq6ugrrYyRAr3FWqmMBWkiTsr6SzrbQg3wcGbD+GDvoQmqVf8dH/WYG+srR6PyJdYH5mOQs6Yg+nu1gvwQ46Z74QIDAQAB",
+        "component_id": "hchghiehpjlknmdeboaibghnjjnbajoe",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1NOYg3JHUXIznfSzIwN5VrBLFhGvZddM9xbgSzdT6X1S3o/7uUS9PfdAZGvoQvZz604qYXwTRAgttPTeUVBcnjuUojQWzBJc7is0g1RDyUbTofzBeg4Phwv3iBK8Qv7g00V+DvMxScVmffCeDcyYCNX1E2kCa6Vj9wrvq0Gv4UjxicIlUjkVXZAcmP2zKG9tRx8yLxDDx5vDhyKeN+V3zBZbwHRsEsdHTUwV3GVecy5Wh8pYhPdv4kAoqOvTsTj6D+cBpzDeftluVSkUQR+zX63F4GTUCSx66SY975v4CfSiNvA8meobxpBB6crJgBjW0Fo/k6mp/cCY2vd1ZKgnywIDAQAB",
         "desc": "Removes additional advertisements from Italian websites, may break some websites"
     },
     {
@@ -237,8 +237,8 @@
         "format": "Standard",
         "langs": ["ja"],
         "support_url": "https://github.com/AdguardTeam/AdguardFilters",
-        "component_id": "ghnjmapememheddlfgmklijahiofgkea",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsOoGwN4i751gHi1QmHMkFZCXFPseO/Q8qKOQViZI7p6THKqF1G3uHNxh8NjwKfsdcJLyZbnWx7BvDeyUw3K9hqWw4Iq6C0Ta1YEqEJFhcltV7J7aCMPJHdjZk5rpya9eXTWX1hfIYOvujPisKuwMNUmnlpaeWThihf4twu9BUn/X6+jcaqVaQ73q5TLS5vp13A9q2qSbEa79f/uUT8oKzN4S/GorQ6faS4bOl3iHuCT9abVXdy80WSut4bBERKgbc+0aJvi1dhpbCeM4DxVViM2ZccKvxSpyx4NvWj56dNKqFLvzoA4/Chz1udxifIXUHh0701s1Y4fLpY0wWP0uXQIDAQAB",
+        "component_id": "bcjgkomhalnajnenppplfjnmcihmmgcl",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwSwL+cx0bs2KgqpH00op2igRAQmXlRNOzDuUuhN2w+V43zgY0YR0F3W5b+mvmlWK+rME5DYsHCxhClKXFjo7Qr9uXhrnlcbACJ8vOJdtGL6uRJklygIAD8wUG7xeA1eUCmkeUZDLMdLRa1PdJschYLljLyC96IHZJGjijdoiQDin73MvHb9anPzH6Alwukla4/iLgqa0onoEGTbFmXkuz3k4AiLyOK4FZguGFvH8MJvm68YMfdltRhViZTag4oQjdy1jJN3jq4un/S0bDBwdxBNWx+RJWDgDWYTtNUoeuWKmW7h0FqMTlK1foMEnQ2AxLjU1srsCPBA91cGMLaNAAwIDAQAB",
         "desc": "Removes advertisements from Japanese websites"
     },
     {
@@ -248,8 +248,8 @@
         "format": "Standard",
         "langs": ["ko"],
         "support_url": "https://github.com/yous/YousList",
-        "component_id": "djhjpnilfflibdflbkgapjfldapkjcgl",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAux80m8cYDEXwq+nMwmui6NCO9SFAdcGly5eq4uGEIQNB1R6Tr9JMqosHLZ4PnaUJqJwFfLWfmxzXj3q0DIpqqpdSq/jTYT/MvOldC+VQFO+NIjXhtysh4Z5F0BzlsQx/leMnV6yoyQjBX53n9cl3BvQK/EdbuQSDiNqX2TSVLm7hnr7Vf8m4XYRSCSJybY/1Tk3Cqgqywlkr+YN58L1/txXCQ9LJ5SxJ9I56TxqA1uT97hBmQikvnopuLh1SovDfjtCZwWwaGDD4ujW+Qaeh9dRrojS47iwG/Twu1xbb7ra8cn8BxdzsPjUSSurpPz/9sUooYOGJO44p7u77sxeTXQIDAQAB",
+        "component_id": "biceijajeckgfchcbpookmofjmogcfob",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuQoVPJTOtYFg9FbeSizl+kYwG4YXKe7+6nVo3hfi618l/u8VRCiCRVeXNLiWbQpYu0yrk54Orsgzdw9YLeqCQZcBEb2Xii5zZ20i372lvbbo6nh0VAxR94IkWBxjF2YxtjHJBLbRedC6jFyWGadDJIiCyulNv449L3z2lM9O4O+VBSwofdtUSCbMcqOuoJYDzqd6BqbNWeUUdgfa3M/KRJrklnVdyGxi92Q3wGiKLGVl66RIKp1r8FP7acnckhnK8pFVaIGRbAHaewps+fl8rq2t1rqS8/RyIu/oXHs/LW0kjZrCOayEEBkN95pRebE5ReiCQpP5mnfFTeMP/G+TFwIDAQAB",
         "desc": "Removes advertisements from Korean websites"
     },
     {
@@ -259,8 +259,8 @@
         "format": "Standard",
         "langs": [],
         "support_url": "https://forums.lanik.us/",
-        "component_id": "oidcknjcjepjgfpammgdalpnjefekhge",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvCOljWKWLWfq/k/BE9gIZtI1MstmG+NcgGBGAP0R7xgaUMU5phdSbQf83Zt9ctwDRpisHWlGS6o+tk93zMIoJVj6RMQ2Zee6QPAKAGgwuCXF7A/ciI3lRyX7ts49XV8GAbasu1mBHntz+GpmOVmoiRxcDMUDDEqsSXgckCM9HkYvIyHQWyEgeulKdhQ2HoCptD2Wgmws6NzRTgQ94+DHu2o6J4MsG74h7L/cG3XB8WQNuqlpjjFIQTXftuUWDSkyR3tlmMxGN1PXAH6RZBNmwQTwdgrOAqEup82dWaO3BqoYGZdYeRaUGRc73iPdvvjZb1tvmqLdVSq7Ur1XJjJJTwIDAQAB",
+        "component_id": "akdhgagimceoifhjdpgfolmfmlbdfflc",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA44DGwi/5ayRTQ9mzkkqtIMe0YwmEB/UGRTaYEuPgh7Pco0q9Rf/791EDIOoGn25RK0rmG328tmlbi79Qe82xl/TYCyoTRnPxx2TlpOrKbtehCod/YTOld7b/YyGIBd7X9L67cpl2PVKp3rTFsiByIhSfI4cKGNP7zSE/zt6L4Uo7LvtkE5rMhkID3c4BgKJO7NfWRZwGxOrAznT6wBdhMG2qQpwN5p+7TveHYw4FtPs1KmDv97blyQRa6PYnKmKXVFjFDDn48+cW6ulmjF61h7FD7Nn4qxyCgm0CY/OpuFZpIkB3kHdKrop7u7Iu/YRmlzTyYkBEEbPI6BQNaOlLawIDAQAB",
         "desc": "Removes additional advertisements from Korean websites, may break some websites"
     },
     {
@@ -270,8 +270,8 @@
         "format": "Standard",
         "langs": ["lt"],
         "support_url": "https://github.com/EasyList-Lithuania/easylist_lithuania",
-        "component_id": "dkbmlhggeoegbkimcafbfhjibdknflnj",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqCK9nqZcPjszbCmHXHMyLgwzSJGFHLIRKGF/QP4GRhdCh+gsiE4Y317mNx9Q0ogbrvsmYGzI7z+Vzfh0BSOEYVs3bl1dCNENPyf+f8kXWySoHY1/u8jMyeJsIPFrIhzjoypGYgqmjFTSnTAYhTPKv6fQ6KHUsNn/5WdKis1h/yPQSFWw7PX7wJubyD3UsE6mtWegpR9sv8mJdaFGvCnTvxm0NRxuAlP+3yINKmnTal82KpPTXh3o4ehNUsGQb8ibcMT0jFmq7VcD53gxojmta/AhBjP1LmByPkUMe8yCYKpnW3zMg1LS4JNcWiS8H2ApUUSW/9wUKMZI+3gidakP2QIDAQAB",
+        "component_id": "kkhnkfooiblfgooiejpfjohhckjleamm",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuPSbuPk/P7Q6auTY2w1rkyCQYq627X2e0uSzKXngg3KKzQVeA3hcx7SsqvBLRcMSbdLqIzf1DgBdnOyu6A/3WVgyZ4/8humqJ8s7hlZdQBbG6rIuWwBILYwnOT3kgIT3j2MgTMLno70T70Ab5KcZhocLEe0eVY2OUKM1zbQfwVpatvxPAl0r7SNjHmIp1I1Tsiu9BgGoYp0burJdL2nhFKENvupBzucG4CqVzONEbEy0Jzkj420hkJX4W8QKdyHPYzP5oW1hZtgljV22IqNPRbzFy+msKzl54SdJDRJ/gY3z/nvxZb2mmMT+7HZ+xuDErsaaX+cdQF4+FhE8JtqhCQIDAQAB",
         "desc": "Removes advertisements from Lithuanian websites"
     },
     {
@@ -281,8 +281,8 @@
         "format": "Standard",
         "langs": ["lv"],
         "support_url": "https://notabug.org/latvian-list/adblock-latvian",
-        "component_id": "hmabmnondepbfogenlfklniehjedmicd",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAst1posKDpKt3WLU07CziowQnBKYXzH2i/sDdJfMuTcKSNQvn9dxbHVLhg8Ih7NmN6SSJTRgb2PughdVNPXqlT3/jGioDC0gN8kBrBoN2YWgIW2wdvTCPvBOfwTOhGueQY6AtE7zD/3m9v6Wfcw07Rj84Su0qI1Zadmq2pBWo5z82vOAI2yV83YGDbnyK1JaFeLToYQmj+bMEojoZ4Lk4PbFmopVh1GkeOdCKtVN2NTIy43N/w0tS0wlLxjwTyZ6RIcK3VOhQXBqcpwKpKm/4WDksTvNRLZ8e526z/nqaasM/meS22hURh6NPtIOdy6/TspTzFPiRdj2xgNfQZ9oRxwIDAQAB",
+        "component_id": "gpjmjnnoifbgoipkbjomcffpjlgailno",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtYtPBgcF/bpaff9Kp3RN7xktQKTFq1i0uCVIqFSvSSHNjjmwGD4iPVwBWKxXd/dac9wzVpRVz+l5pNNTOKAGh7qjtKcWKnzWRDT5xO3b9IdfhLHu4wOK5O2XK/Izn/pQC1RraaUsQSsnxmS9m3vcew4Ixa3OxpouoU1CWWwLUMgDJOPGZqq2M4V+iGZNkduT37Z16enp1hxoqd5p0qU3jx1bTqesEW4K+lBDTWhO/P7lVIdR1TqH0byg3V0HSXwsSqNNrP75Z2oCkUsQ+Y3YmshV+IF6HPHuP9p7XRxzp9Dsg7od/0FIfIrRMFC9HK9ntzjNIHriBLaUhpAmWVWZMwIDAQAB",
         "desc": "Removes advertisements from Latvian websites"
     },
     {
@@ -292,8 +292,8 @@
         "format": "Standard",
         "langs": ["nl"],
         "support_url": "https://forums.lanik.us/viewforum.php?f=100",
-        "component_id": "fbmjnabmpmfnfknjmbegjmjigmelggmf",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqqfwmNS4XOq9pWC3XSMt5WcqoKaj3lRpYAwZKTP+6DwA9pG+Zw+0iWC95riSLjqPgX+0d2cZaqjinuNn3mUMOeGdbwSIeRLE50J5J/dMmkg5YO09orZKLBjMfJG5IDgfXdZLSJtmzKC4Xj2y6KSuQ7N0Sg5f1Ecc19nFbcFazCaIhKvcoA84J7Twf2IoCDuPMsGplgZCBtFQkKeqILaVhJZeD0my6pdC2KJREbM3eRnntE44O0sbmemCfHs9BV50hVb913zGDZ379eTqg3mPjvH+VnY+7RvjVPayJP4+51zRJYKi18W7KMry3sj4ZZ3EyNKmbwlGQOzAyd/Qtj4I3wIDAQAB",
+        "component_id": "lmeicmmhpigahahdgopfklpbjhmmieop",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr9SGxq7bQCbk2MWI6tdxxm9hVeCq9o997F4cv4QnL5vjHswm+xbCjEURG1MxzB3ZThbvaPA/9q7nYcAyipYdp08huLARKWHqbGPRJFc7hijJ/xr6jKnU7DazffXW3r+re/dPdHUjZqwFOAK3T9EGL8EApc1q6TSdud9fm+5QnzZbPRKXKFK422KhmrYMq0wE3bZ20Pu7R0TU6soydPeVLH5/zty3B9GGLsdu9SSIvUpOFQ7eAC2NIzVntyal6TxakWQ6nFqQTCX8pYnzbQ9fhMwB36AEJSVeuDpT+S7Lt3MtJyhG1oo4Bxkftpse6wRr5TWmmUjlQmjI6JJitycq6QIDAQAB",
         "desc": "Removes advertisements from Dutch websites"
     },
     {
@@ -303,8 +303,8 @@
         "format": "Standard",
         "langs": ["pl"],
         "support_url": "https://github.com/MajkiIT/polish-ads-filter/issues",
-        "component_id": "paoecjnjjbclkgbempaeemcbeldldlbo",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsUqWP6CeMx79UyZ3GZ1XcBGexIgml00sB286wZ7dJsfqG7oI0EGRoqrDeRreYcOTl+HvXsRJvR1FfkKJzD5svdhR4mn4lI+FXUDCvgEZ9CFa0YfASuoTIrdZtG74Twu2ai52ZJzrQ9ike97bdwzuZo+uymw26S+5/+IQbriIYoxEbJd7EryZuo+W65LdSat/NOKKf1QnVTIOoqMrXiewRYywnmZATfDIi0uKXuQfF15lbNBkQllmPH1xlMkz2WnvSvqI4HKPAmEFJWVUkiNhGKFZkTk1+88CgGGPVsKllxLaDOD+j8Kb0+h44RxObHTF/vFkfh8FfzujFj3HtevjCQIDAQAB",
+        "component_id": "nbhfchecaagomdcapalmcigcellmccbb",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtJHp/5wE4uJLbOoYIB2t31J0BPB06+jeNfiwSJAekNZepktwSnUK2lvt1RQdAGk8rktualfuxtay9unh3u8D2wOKutVOLysWD1FW+I2uHbWn+hahv9Vuohn1dTnpW6afXH9KLF6SN9JQenrViPtuCyMuE6W7ggtp3hHfFr+4RsANul+rxMqrX6WJzcJCJLuzBGfGda6KYmZhrIEUr6ScK+Sz57hLJe6LYpR05AlOQZLf/xidTA13cvKR7KISzzU7BXhsz0srWiZUgkK7wtdNYifCDcWC8mi/SnQWn7kIKQJCWm7ly8v3dXbnyFbRoQx7ONW1Sji00UtpKfJ3z9Y04QIDAQAB",
         "desc": "Removes advertisements from Polish websites"
     },
     {
@@ -314,8 +314,8 @@
         "format": "Standard",
         "langs": ["pl"],
         "support_url": "https://github.com/olegwukr/polish-privacy-filters/issues",
-        "component_id": "baophminpaegfihdcekehejfhpmjimle",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApX6GHwd6ZsPNk4iomzHF6fb69FJcVyRNTQc3X/LlDuEXERJ/eZzDVMn2pCm2CTCXQHweQWqBkC/20FkjniwGb9LSjzP5jdcDCFmSwaFWdiM7xG+BfMFP+XDJtjOlqirWESi6dzwnQ5pKQDpNCblMBuuhT1WyDLtHODwbNJs/jILdSAapW8eQApQ/iCGidYPbPvPL53bq+u45UXXljillsJTbGV8vu2VVhf9/fL5McKu7uX6xR2i4WR2x1hQYMYu5rnFIrDNWGIn4CNDodO22nyBBjznGfQ8XVp558s5tC+v+12hY6HJW4CWJ3Oes+PXuLPDUwYuJKkuncfADk49oVQIDAQAB",
+        "component_id": "nnppidjnhnbcbdkllphkepijpcapnlpo",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs9fPp2gPDLIFNqiOcrJ/uD1RT+eTjy78OidISTFegwDYUQaudDExLRHwrnSyGtLw41qhhiqDSRAbhBV2QzhcRqDpNh/a0/j+FBgyv2o7vs8hyGv1URcQssd/inxmwZ4S5diVLDj81E3+RidQtweehBN0hGSpnAsxRWv1/tLr9n1kZIoPTYkArrcIq3fyy4DR0Fg7QpSScfa4pAlkv2iI/71MU6YJSAKla/4ehnnKl9XBy9igbRllktWwesHMehguuiAMlx3FhdQF1s9rnYDomEpXIpmH5WSQQlhzJrY6yzrOOvU/pGRqoQlZV5vSIKsWVZWnosJyzZt9nqYCvU3myQIDAQAB",
         "desc": "Defuses anti-adblock from Polish websites"
     },
     {
@@ -325,8 +325,8 @@
         "format": "Standard",
         "langs": ["pl"],
         "support_url": "https://github.com/olegwukr/polish-privacy-filters/issues",
-        "component_id": "ndgeclhidhlfgmjdcapejaldbahmkgbi",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvZaLRYXrVyL6jjJF8guXpjmUFv3nJd8hfLmbldBIiJ21bMPpaypGBjQANxIU1Sfz1jpy9J+OkB1ifoDg0ScWqDCD0zpjjS87g9ANGantkh55Y+TYDe7yGq6JF2ELr618y3UJTSyfMUi2jLlmved/1Zmtuup2+nWS3Od6NfnXmV+pHJXJLTX7n397RVb1RNN8U5WIvx6vnpZPVB2H8YoNJd9JMj2olIm6yt4Y0ODMOOAXuROz02QLBwnlZC39Z+BuNVxW2fqhLqFw28MD308v2uYiY/Vc0enna8UISSvebYwJedwZFCzk1CVWaO0Y6vHOBVtH4DwHb5sVxUzx/KI3dwIDAQAB",
+        "component_id": "knngbomcdmlbnnbajchmhgamamcoedhd",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2p28H0fLgLwdkejKze4lu5wzqRUCr2x3qvmIodwvuemU2W6oEr7RfhMs/009QuuIYtWmOye1PRo3LpndYyjCxp2KU8wQ1ZxlIOYBqm+qPGCLKrf+JF2imh0dw+RHQyZvYnNFTZLTVd3Z7Ez21oGPcjlsLs1iGvZpXFMPDMXdTRdsErzzqtJhCxoVsHy6spICqKPtoeJYE39WeGoUj+XRtJ2/yE/wK3uCXHlXM2w/JCZKXmDzywUZfR8ENNWMKMWXMi7m8cWdkZqBWUlmSGYR989k4PafcxRAJRAxYlKIRxarY9vJ6i46EcYPYr090r6FY0Qdr6zp92HIZkOBorx+EQIDAQAB",
         "desc": "Defuses anti-adblock from Polish websites"
     },
     {
@@ -336,8 +336,8 @@
         "format": "Standard",
         "langs": ["ro"],
         "support_url": "https://github.com/tcptomato/ROad-Block",
-        "component_id": "hojdjlebfkngledgkgecohjkjjojaekd",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnhLXi2u795hnBUJi/vS8qtMGoTYk9NRefWk+SI6fkqVdiKs/eM6Y8v3To4HgNmtYb4jAoYctcq3/CS3hzGCLEwQbDuL8Y8UP5B6PWgzuiRrAobRl1DtXO1+Q57VIrYTpJVLCqaTulclys7Fka/wD5o78Y0vAfSenBZTzRUXwTZd9Z7SRNwcJyccbi7zL8UDWnJMBnD/dnV7t2q41MHiCgdzimOSuoRZmTBrupVc0QYhqoxy6ePkHFDGL2U25omAZckkzpQbtvJEE2lmg7YqnaSvGDzsmqd+j7hVWjpm/ncArLOWBCbER3MdHwFeOI2rFJWcO7GY5etQsA5128FAv0wIDAQAB",
+        "component_id": "ghiaihacefnmpfpcnnlbomjkfpdainbf",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxQXvnkOgZomt/8UbKsTb0Ul5YIbVvOX98k0mZftYqq+auKmG7Uu3sALylgccbTucy0IpDfodZ56Ltpyrl1qlukkMj5xIIsSbATDweKJu9+U4U2fdVgQ3vc6L4PtNOe940tTkXdAuTpX9YWQXkBPKYqAVu//arX6WHjXyzl6UhRJy9IQRrIC3zcwz6QPY8SZXzN6YOGSRvPV6URuWr++ZZGzQB16pqp2XSP7sJIIvqjJnYvtBrUvNtNnA66BIsgFgimL7XvOuVqu8NERsqqFmN5J9MMfST66uWXE+Bn8vzoa0EDPbsW658uBMJ5LfheQZoPLJyJ1WcqN6MYgk3PDdewIDAQAB",
         "desc": "Removes advertisements from Romanian websites"
     },
     {
@@ -347,8 +347,8 @@
         "format": "Standard",
         "langs": ["ru", "uk", "be"],
         "support_url": "https://forums.lanik.us/viewforum.php?f=102",
-        "component_id": "enkheaiicpeffbfgjiklngbpkilnbkoi",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArVVgKRE868yup0HfX4+HyZmJVIk33AKivwvRRfjHRxeC+lLnRjNiY0LKS/K65J6SNLgUsZGfT5u4h4F423O/pbZl6zdfs5kOyStlmLPXhFtF/bIXIsUtdJ0R3dEz+nSg0C2L/FnE5Qr8M4thdmq/DIP1C70mj8pCnX1939hXyR0ymQkYp573O+LJ0q1L41jBqHzNKWngfBc79I2Kbt1pLluBT2X7zZVbb+1ap3Ad/VMeFDB2yurRs88cYJZOal7mgTgI/Zkuzsh2Dnql5+UNOCHinYjcOvUifGgkdsJIJxL57PxRzbriLCNjShoOV3Fpc0XYL1KSWvIVuW0bYeLmrwIDAQAB",
+        "component_id": "pomldkipiicialgocaiinblknncpaagb",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwXfK+yq+V/T8qFq8hZzxyhiFdFm4TZ8MtG969dWdRF2Qc30/lDFr+MKCSRjljTYqH7+6CjD0TYZuwMqke2VNR3R/6aC4Jaz77dkKitT0ad6lhae3q7OYK8E7IypvUCKQ1UXVx3Lasb3Vt2vDfX9ot9EEdvY4PT8m4FF3uNUzigGs2K8OjNCD2clBsY5OKbEvrQ4SMvfoWQz31lpWWsUFaXZMdGbXalVFfS5MYf8DbCPQfsGLn3H3SkUAlqwSDGhvEjPnWgjUKRdyXPGTfIHRg5LciWk1aa1mKI0f6V8qQT5qicbOljc1C7VDNMz0bH9/pTx35z85dax46Gynn0tUTwIDAQAB",
         "desc": "Removes advertisements from Russian websites"
     },
     {
@@ -358,8 +358,8 @@
         "format": "Standard",
         "langs": [],
         "support_url": "https://forum.adguard.com/forumdisplay.php?69-%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80%D1%8B-Adguard",
-        "component_id": "dmoefgliihlcfplldbllllbofegmojne",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4p+4n2wNFQCqQBBJDsvs+oqNYGzX3cbpY7fKbCjrRVE5esJK5HZJDoUUg43pPvKrCOIQ+lF+dXpBaCNnO4O/7JeFt2IFRJnKhE3ipIBAAbFymfo5T2uWFdyh6HcK0FNyJ/7FyHnANe7vYhXJS1Fqmh6jTYkAEIbrbmxtzrDMefx3XJcVhUV3XAPlP+K3MerxudIH++4fn3X0vKob5oQQQ9ZZ1PVcW6ZdZTQwQWtaVDb6prT+ULaphRRmnZpZuRXyHMv9KC8YP3K5ou+/Yd3uxxMwKmJXD67ZoNMtS/Dtr0btQsLxiEgox5Swd4iqyLM/SMxr3LqgUIlNwn7KRbMnZwIDAQAB",
+        "component_id": "kleicdekoflgbpnoomejphcegcenljmk",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3Ww1ObWC3AsbrdZfcnQI3uBm+orTnShtkl+vatrrPGoFXANLdgvQ7uKY1q1cPIOAIhnE+bkTQYQgVfpA3acjONotfby96XCtYL6gEYzmZvYvO966huQhWQHT7PXR6Ml6VoqUcVBWfWMhRMruU9HR1IXf+US9iAoxaqDmtJAo8RskQAA3VN+zcwTtHtOJq3orZfjgML69TbHaNGRBg89XpKidnb2RqucdUsGIg9WCOX8d02dDi2LL/WLEhW5ltzsEbY3C4vDzu1VEutvJneIkW0NKyc3y4n+xBVTsEgnLNRBgHx9mf1cZzymHMysT1PrW65lEESdx3WflTOvJ/wllGwIDAQAB",
         "desc": "Removes additional advertisements from Russian websites, may break some websites"
     },
     {
@@ -369,8 +369,8 @@
         "format": "Standard",
         "langs": [],
         "support_url": "https://forums.lanik.us/viewforum.php?f=102",
-        "component_id": "fmcofgdkijoanfaodpdfjipdgnjbiolk",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApGBuuxC9pqx2s5hUd3K8zeFUtMFt9X+rSKR3elqWztjIQrbOdXSeezHvhAUdzgc+Wv79ZoRf4i4amYs3Mg3wg783BAqLvlu9r6FsUAbcgVQtt+MT3Z4ZepwvzWU0NjUd1q4O2pNEUsE8SPjmOeb3KHOF5WX7CA1uIHT5xGQsU5Uh3VTZC8FIOGjCskDAAnJGUeOowlMBGL2UvlNQLiqzPSvI9byjwxIMN5OfCmxXXr4R9m88oVK2D1gj7vfwBVJcRdV8ner4ZSuT68ncSyaQRtgI3/QyHc0J6giCRFmF0bHN/5kjFIWrHg5+uiBQN4Qt39TVCUU024Fi2RGInvTTdQIDAQAB",
+        "component_id": "mfhkcnehaeecimaakkgpbljbjondjple",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5XYD/TS6kDKfk57fYNBO2N1gzUaDUnzwUaaQv4DvlunUfe98DieaKoZv1fzTwpXhQnGzZKmeex3VwvxoIx6TUr/XnC+W9fPwPSZdq/l+Entfu5q1wHxRW+lbZJGhIP7jiUCNZR+H6X8g72tRfsVtgta8TD59NsIf+D99AhKaxHmvE5xLUvYDAkT2xM8/c1d/upDRGBRm31pTZYUMQNm9kuZtYBiUnscCS8tgNOqbn2LpMLJiZ7hTmfZp6RjFcn4JajkfDU2OFcsiBSKZl4hgqDLtcpWg5brDB4V0WC7NgVUmeuApPVHAmSFEoZdVp7lIocoZt354xW6C6Y9r2esVKQIDAQAB",
         "desc": "Removes additional advertisements from Russian websites, may break some websites"
     },
     {
@@ -380,8 +380,8 @@
         "format": "Standard",
         "langs": ["es"],
         "support_url": "https://forums.lanik.us/viewforum.php?f=103",
-        "component_id": "pdecoifadfkklajdlmndjpkhabpklldh",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2eGyWcTM6Cpmkw6CBBxQbJCgp3Q4jyh+JR/Aqq5G+OFzxFpwlqW0dH9kNuUs30iSt1tt1gMZGYnhPKiGhtX3nV1iYg2K8k82wNqA5+ODfHxnnVn536UoC7rmjXL+mhpymxgkjGCQ+1HVmnCcSC9mxTPy65ihor+YZcRRPo0IhjQTx3NgdpzkGYvpQVjwnw3a5FpRBCbbp3X2x3EGV3DcjvT6DvvxSU/mAUPlXISo9OFHYUpADilqAevXQIs49LSmefSDu4pezGyR/JoRLh7QR4N3fC17V2E0GazWxvn2U985hPE3tvFcH+LM3EypVRCl6E9AiUZCeumqMBffyXw1AwIDAQAB",
+        "component_id": "knokiikckhfdicmpdeefcppibgjnpgfa",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArkMHnW4yNbpv57SCeCK/0jX3MlK5O4ld8HXAZpsyu+dTqB/A3iJqmVqQFCW3ilayTpj3GiHgfNQzqjJF84q0SIPTlTckSuavYUeiuN4Pmhm0rt9ltuE300w6i7ZvjlRXIdOnCLUqfc8DeF2ksGxB0ecMJkHMqTi4oZqqunNlQg3U47aMpAR7dBU6+6zDwkm+nHNIxm8wfbyynZuvxWV2CiC5eXd1IWzOKeTVFwFP47AaainwGsU91Yydt/hdkX56YcDNAP+j330fh1lx+NYhTqpi1XCjN26GM0KHC9PLeMfBPTSqDnf/f60MGxhFzwZwmPw3x0EOH7S0TsmRAfeIkQIDAQAB",
         "desc": "Removes advertisements from Spanish websites"
     },
     {
@@ -391,8 +391,8 @@
         "format": "Standard",
         "langs": ["es", "pt"],
         "support_url": "https://github.com/AdguardTeam/AdguardFilters#adguard-filters",
-        "component_id": "jpolmkeojnkicccihhepfbkhcbicimpa",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs1E/bf3s1EQeJY10IT5/ZMCzfMAm6SKyWUCeHBkWZLcfwyYLJww84EC2jCLeYgwukOmZjwtnDrasVhUyKOif7dKIBEZizsvSldi8tzHqTbX3PFKsLhRXCETbU0kkOlArGRGLaBIhgT07qPtlehYCZoDdowk42025fVtfVEMtZg8yBIqtFT/bDL96lRDQIW+1uAM3uFkzvRtQgsYhoI6JlyqFw6fqowRx8a+zHvtQzAUyIaTGf0OFEHwGCFlHXmTYpcOXlcUAXn4RnJvx+thpeDBtAvT6LubTLNQClBbwjGL5d7NlGNPByYdcZZcvGPmBWX/vnobY5QGP4lWxZvWfFwIDAQAB",
+        "component_id": "ilhlpimdcnogikbkkbaplamdedohcmih",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqzOy/xdkvTw9h974g5NX2xxCm9WHzqIkgJab7T8f08lhVBPaplpRD3ur0s5YYXmtPxGgKiiYUi5/GWGwphtIietpKYk15+EFD3Bj2TSec0YX31t4gDCzoEjQIqwLdE4qux9UGSFEEmRbsGWax8+TkjasluKvri0KGQmUahvebNkNTzVAh+uXlul3w+ZNXtz/T/eYpkmYtqQWe6VuoRh/fZKsrHT2KL0lFnCFDP5bDPFUxHSoiBN03296ojSQoQEJenAcq3uzuxJiWYQccHCf8gE1VLvJJ+YV9cPyWX63MY7BWh+ju2U9erSqkRx5Ud+1x8OFDe27bdEWuv+HNf13lwIDAQAB",
         "desc": "Removes advertisements from Spanish and Portuguese websites"
     },
     {
@@ -402,8 +402,8 @@
         "format": "Standard",
         "langs": ["sl"],
         "support_url": "https://github.com/betterwebleon/slovenian-list",
-        "component_id": "lddghfaofadfpaajgncgkbjhalgohfkd",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4cRSF2Rg5SSG6mwE6NQCnX4a0MfzC9URqNFnI4Wf3d3a7CkhmVeNZHxSCGGLxNV9SjCi5tko7NdMqIwnN/vliZV+jnEDi8Lj+zz9nftkaGXe3jNoP7tr/+Qkqphc76j3wIpsQx/vBnfVTn5lrNynZL6qpFzX5dj4ukdJ6BOx1YTNdJV9LOyMWbC5rno1mpd14aS7R2T6xfnm3+nupaZMAbUeN/1bwxDdND/mbjFzFvkPCC+4m758tI/5kSJOefy8kNvp9BM64LXPA4sF59ttJtCIOJDAyhM1P0Danyze2g/0GGnojDuzZilfeSCeEpDsc+S78Tyqz/lMtxt2LZkvoQIDAQAB",
+        "component_id": "ndhcneknjppihalppjjamlhgcfhgbdfb",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvgKr2RSZl2A6ixfMQGMaAHZ+jWTPgBKPyFoPPKfGXJAU7vCH4VwYgagv2L2OVliCk9jh201dIvY3S9rKuTMYiZ46uMFYb4ywqhF597ArbrT+cMqRrbIp7bcVXARyQRMQFuNmiKOP50j6XYov3B7Ap+nXRGV4dC5s0dMNk6P1rg+lpaRda8DnIEFs/h+VCLnJUG/f56kz4eGlr4VcIOBaHWhaH0PoABWvI3k06FFJOhXvw+VPh0Qr4J6mFyGoJ5PBnYdqbyJ/96eTBm+i6vk5IVwYjE3m0HB7EXkZcBLZ7+wlYlqzDyqmWF6pacDEQOCvsDjtsCy/jf2e/BAv+HMSVQIDAQAB",
         "desc": "Removes advertisements from Slovenian websites"
     },
     {
@@ -413,8 +413,8 @@
         "format": "Standard",
         "langs": ["sv"],
         "support_url": "https://github.com/lassekongo83/Frellwits-filter-lists",
-        "component_id": "oimfmeehpinnecjghphifehbbnddjkmf",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA17Vf1qj8dWwYVtGpBHWc9gLiITU1XrTnb1sDASIeuKYp9JNBtEnBwy4oBlOoZd2uWFKxXrRtaimdwqa627gi9DB17t/RgzisXSpLubXbVVelRWllaX26SioGxsGcQhS2/e1Bc0inQ8GODM6mk5FPZ9RObFN1N/QVz35anN4VNcjtETD/XpujYXE1BU3C0KGBlWwc+cQZ6sGojWEPrb7aRXSTJ5y/ugwGomTTpbT+Jt9nFrMfuAmJHvWS0Ev96dDmn1zsuoPGUExVFjGBunphRYMVCg9LUGzY0FN5+dp6fljrTJrtUOEfvh40vmjahKd0w6bKpgTAOUEaWulmVSr37QIDAQAB",
+        "component_id": "gcepejcahfiadcfamkcabhoabpdjoopi",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3OyM8pFOYwyID2JzLrz6utZ0Y7d38eenGXHLDI5/D3Q9Eqz69tnQB3Lvr789xE7g2EaoFBbTtvoaMlyNwib0fIWC72bi8cjx+6JXy0n7zRy3rYL998D2ForIziYBrIdRVm8yBL2966TnJDI53JnWShcLkvERC5Kj5EP0PVnB936CvOeF6YSevjZh4V9tHI6akXQFdaAEQahozBXOIAdW1bYcOUtMGM3t2UarqqbwHd0B6kfHChj+gY37zTyqHy0DEAqenKOh9Nv85g7S5vAeHXX/kYuXu75jebnWE81sq1lkU4VX0fLecfiY77rf7CFwpGrDwWvJth2e63ES7ZInmQIDAQAB",
         "desc": "Removes advertisements from Swedish websites"
     },
     {
@@ -424,8 +424,8 @@
         "format": "Standard",
         "langs": ["th"],
         "support_url": "https://github.com/easylist-thailand/easylist-thailand",
-        "component_id": "jplgiejfnpolnfnigblbfeeidoimingd",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAy4EQ0IdWDAAqRT6ymtxWG32Whfmv5TMxKuEP3rs9LMfa+iU+xiyE/XvWjgA58n4Bs2vQgefCoqY+a9B0TUkqz0nDcrBi371w1EZSxNRySslO5VvLHdRdYwynTMwDsAlHIPZ6pgh9zwprW1Lxz31CC2EHJeBGmBQ/S8My/VRiN8Y2Jj7yZDX1rTvBrYPj5XAwe2MAPAsMJD4lHcx7uClEbVq/4AxNpmNay5kamFaX6qt8/765RyPYuqgneharP7EJ9HToH56l/KR7doOywTyVPQYvEhD+a1mioMfEtYNxvqY4lKDhctTV8aU7RItAgwGTW+msldvdPfs3QWV5o7yrtQIDAQAB",
+        "component_id": "jongmpbndbpmooadnhcdgfomdjdnimnp",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtJA6sWDXIom7h+AbRslHGyF9hAYkBBRaiShzxkGBt918hQRaKayhC6CJ39UemMq5CVsEwCW3/MNkkwIEHo79HOGX16sJK461NRwhSQzpQJXppN3lJ/+8IyCBkl3OZm+mrc+02YT0Me3SJU/iV8nFNO3ATkm0LblPV1fPUkOdIzlw4PdTVqZTdpM7CitGzwbMMZya081878iTiKb5arVVfsmiSikFiOVNNLlHHXRMU4ZymBT9aP96KSO+QxeflaA2fYMWiDCabatb1gePv8C5pbm/bgIWtkHq9bBNLs6aNcUm0XdSuYRTrbpFmQOmb+e0ax/V8z/d9OCAPEDxDREF3QIDAQAB",
         "desc": "Removes advertisements from Thai websites"
     },
     {
@@ -435,8 +435,8 @@
         "format": "Standard",
         "langs": ["tr"],
         "support_url": "https://forum.adguard.com/forumdisplay.php?51-Filter-Rules",
-        "component_id": "oooemoeokehlgldpjjhcgbndjcekllim",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2We4hmp3TwsrKyOb6rF/mCjy9TW3w9n9CD1rZMXUF3U6CCgxH4lps5HiLlxUFaIhhcUEXrGlXbk4TE2LlTv4VS53O23YixZXQ/xMmpWSyBvc3/jBCrAAcvDLAZY53J1T/9t7DNZdpXkX3rNpYB4L5/5dyzQI+sZZoTBe5dLyJOR1uDZJphpXRWSKqBRLn4SJ5uOGgtqG5J4rMhB+SUrNhWs8AyM8+tdoaxOjx7n+PA2Rx7/foty1Bbd7Hfc1Eg0C9R40inJNgH+IDxZ07ZFqiAuY1Z16lr4bwunk7ft4tTafci0M2t86JkoH0B4yiTBKthB6AkmZ0/dejeQeOBszYQIDAQAB",
+        "component_id": "mnbnecpplkbjeenhkmlkdcdoekdkoekp",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvD3M549ihJF3Uy7ABfXYPJCV6kf0qSVwPXvb7UpMNms8P7tFUqNPStUQi27AXfVnL5SBMVtjUCXNR3wjivn/rAVYvYD0ud/6KCOCN/rcIxVVZ2KIUu96lkwxCkFwli6c0vSPiy5zhvhoCwOFrZj+br8NiXlcq2fL/BmMNBN1l91BpuZEC/VNiIAH43Q/nYX5ChgJI8TF1Y/kX8+c33hAyS7VdKnf3+4wTSZ+7P7UAYP8KGeH2AogFRe+fDZxMrS/TuaI4ulcVfmzgDvaEvcI9PAVAtv0/x5rTz/fLo5BbAUJq2WUP1mUfLBrwq56baBiC5R9Lb5RIWOfMlwrjYNzSwIDAQAB",
         "desc": "Removes advertisements from Turkish websites"
     },
     {
@@ -446,8 +446,8 @@
         "format": "Standard",
         "langs": ["vi"],
         "support_url": "https://abpvn.com/",
-        "component_id": "cklgijeopkpaadeipkhdaodemoenlene",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAymFhKEG/UJ8ZyKjdx4xfRFtECXdWXixG8GoS3mrw/haeVQoB1jXmPBQTZfL2WGZqYvrAkHRRel7XEoZNYziP3bCYbS4yVqKnDUp1u5GIsMsN0Pff1O1SHEbqClb79vAVhftNq1VQkHPpXQdoSiINQ12Om8WbOIuaNxkrTToFW7XRMtbI3tluoLUSy9YTkCEGah68Dl1uL6nOzOxaMV1iQRRk5Pw4ugTzwGHHL2U2kDYDNrlywK8cUIFgtZskqQ/TF1zF6u9xTGjwjB9X319XrTg2llcojCgj/dllBuXL2aJoDsS3qAVzqbSYxIE6bQU8JX8wv+KCDMpJt/dHPQqOMwIDAQAB",
+        "component_id": "jpffjfbjebkfpakmmhaamiblgkjbblhh",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxaCxpkfmZjWf81c1zSZXRIHY4LLpJiUlXulQamiyaLcCWXDJAOvHYZTwuqLVq8jE0K/qOiAXXQIlWxd3/3F+S0Tb25UPD/VxtH9zHT+hFBXDMitKWOo7k4A9M05T0J1c0wAV0Ua7rdTa143UpSdt/mSyvePP0ot3zzKZJFZmP0L+wZF2yjSVxH9VuIcfhmzVKCbbI5rcPfEATL8ajKSA5rXGUxBx0cz+eGWLL4AJsv8fAYSfZtJTfOWl6ezf7noMJnWWqcz7sGZzmZBAA44VDMJ/FUEUeyQZbNGi8NF3LvX3WytdYezQzcQCP2RXPI9gDSDwFEKLAd+X0jE7ITTzMQIDAQAB",
         "desc": "Removes advertisements from Vietnamese websites"
     }
 ]
