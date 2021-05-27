@@ -473,14 +473,14 @@
         "desc": "Removes advertisements from Vietnamese websites"
     },
     {
-        "uuid": "1533D40B-0850-46C3-92E0-BA817EC5D41E",
+        "uuid": "2707FF41-61BA-4B97-8285-676C67535CD8",
         "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt",
         "title": "uBlock Annoyances List (used with Fanboy Annoyances List)",
         "format": "Standard",
         "langs": [],
         "support_url": "https://github.com/uBlockOrigin/uAssets",
-        "component_id": "dgjfdkopalbjajamdkgmmhnngnoddnel",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvY+5Ss/wx0jhF5wKN1HnkUBcN0pbNLyw4ALzC4GHm4QoVDnHpbQVvwnkdLx0/5MINmNSktbBEu/ZgzAeiRSKEewYmWrz78OS+rGl4Gb9t0IraNPXT4F5059OkgB/lbuujQeLH/dZsorE4tmMze3aNAQMc9sgk5sjPBhrxa2s69oQ6QZ0EOnB4eIH2o2ZsiZ8MgxGzgTcWGc0GvuH/fGkcKJyL4PowDMBOLo92/9y5oFgLVuXCGMsMyEuDpeFWkMpaG/Hrkt1ddhLcnCpCyol0TDVRU1GeRzmiMVrcwIZBsRc+zivJFMJ97DFhNMN9KmquNwu7t1l8WXOVaoDaOLOIwIDAQAB",
+        "component_id": "oojjoggfcjlffbkficeeglefhfcjoljb",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwCqYRE8PwRxVcBcU8/lQDmxoVFoCiAJ28OcZMiTQqv6t7riE80yXmkSfCpb7k+lunR5LuX5JN8fQ9Q/pzmfPaJCwnvXrKGA1bc5l5HPTpMCKjG2h25vEIHrYzk18+PSVAyVfEHa6Y4Cn6WaIV17Zu4+MTxxbwWb3nk4EXmC0BDYHeh2KSQMkgiCQiVnR+Sj4ivYK0CDoiPMBaPStl4pomujlj8+/BRWtfSPE95UtSDZcBwQXEKpUmdJtv6msNK8Vv38wdxc3bEJzbc5Yfp5MFg7xOomPfaIwX3Zg456NPiV+CMu/rqF2TCn/aPd6SrTyHhU5YSZceYCxBLqfViqaTwIDAQAB",
         "desc": "Removes Web Annoyances, Supplemental uBO list"
     }
 ]
