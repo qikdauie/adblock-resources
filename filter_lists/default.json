@@ -14,6 +14,13 @@
         "support_url": "https://github.com/uBlockOrigin/uAssets"
     },
     {
+        "uuid": "0E51623E-A758-4C44-B988-6F01336C480A",
+        "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt",
+        "title": "uBlock Origin 2021 Filters",
+        "format": "Standard",
+        "support_url": "https://github.com/uBlockOrigin/uAssets"
+    },
+    {
         "uuid": "4dda991a-cf59-4acf-82dc-c93bf38fbb31",
         "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt",
         "title": "uBlock Origin filters - Badware risks",
@@ -72,6 +79,20 @@
     {
         "uuid": "2FBEB0BC-E2E1-4170-BAA9-05E76AAB5BA5",
         "url": "https://raw.githubusercontent.com/brave/adblock-lists/master/brave-unbreak.txt",
+        "title": "Brave Unbreak",
+        "format": "Standard",
+        "support_url": "https://github.com/brave/adblock-lists"
+    },
+    {
+        "uuid": "BCB1AFD7-7563-4BD4-B1F1-AEA01D38E982",
+        "url": "https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-specific.txt",
+        "title": "Brave Specific",
+        "format": "Standard",
+        "support_url": "https://github.com/brave/adblock-lists"
+    },
+    {
+        "uuid": "805662ef-a1aa-4948-9f6e-72603823e886",
+        "url": "https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-unbreak.txt",
         "title": "Brave Unbreak",
         "format": "Standard",
         "support_url": "https://github.com/brave/adblock-lists"
