@@ -91,16 +91,16 @@
         "support_url": "https://github.com/brave/adblock-lists"
     },
     {
-        "uuid": "805662ef-a1aa-4948-9f6e-72603823e886",
-        "url": "https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-unbreak.txt",
-        "title": "Brave Unbreak",
+        "uuid": "9752d6b2-9e5d-4d56-a7e8-c2ee0f181ea3",
+        "url": "https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-social.txt",
+        "title": "Brave Social",
         "format": "Standard",
         "support_url": "https://github.com/brave/adblock-lists"
     },
     {
-        "uuid": "9752d6b2-9e5d-4d56-a7e8-c2ee0f181ea3",
-        "url": "https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-social.txt",
-        "title": "Brave Social",
+        "uuid": "805662ef-a1aa-4948-9f6e-72603823e886",
+        "url": "https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-unbreak.txt",
+        "title": "Brave Unbreak",
         "format": "Standard",
         "support_url": "https://github.com/brave/adblock-lists"
     }
