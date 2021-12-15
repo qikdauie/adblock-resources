@@ -165,17 +165,6 @@
         "desc": "Removes advertisements from Greek websites"
     },
     {
-        "uuid": "EDEEE15A-6FA9-4FAC-8CA8-3565508EAAC3",
-        "url": "https://raw.githubusercontent.com/szpeter80/hufilter/master/hufilter.txt",
-        "title": "Hufilter",
-        "format": "Standard",
-        "langs": ["hu"],
-        "support_url": "https://github.com/szpeter80/hufilter",
-        "component_id": "bclikdggnkmpbjkhkpphllkighlbkohl",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwCtTOj49v6UTtoR9Xwn+Eu1YZnN2auROajCtW7HeuSxxi28WWUyeJ3G/0Dt6GEtnud2TE8YN1PyGmkmT9aH2EAZ/9PyJALvk87BX8z9KaqEakXvlX0NlISstyiPUwBLngyyrwmWsoYDtSo4sYx4qPfQqWgPuFYCu4m3nicXkjAy1o8rlusjOmdGU4VANAEEaC5s/MqmXi6wS6OEtCxlUCywfFxJGlPivWuo2Ka/x9dBkH+gI/nBJtHPDpylaFxdQqz23issyOk4IXDJ/4vtdfpDWmktdEyfPnQAnVfVAIhT5SbORI0VMhYZ1JQqijeCAMX+6zceenmIVHu8yqJT8aQIDAQAB",
-        "desc": "Removes advertisements from Hungarian websites"
-    },
-    {
         "uuid": "93123971-5AE6-47BA-93EA-BE1E4682E2B6",
         "url": "https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/subscriptions/abpindo.txt",
         "title": "ABPindo",
