@@ -471,5 +471,16 @@
         "component_id": "oojjoggfcjlffbkficeeglefhfcjoljb",
         "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwCqYRE8PwRxVcBcU8/lQDmxoVFoCiAJ28OcZMiTQqv6t7riE80yXmkSfCpb7k+lunR5LuX5JN8fQ9Q/pzmfPaJCwnvXrKGA1bc5l5HPTpMCKjG2h25vEIHrYzk18+PSVAyVfEHa6Y4Cn6WaIV17Zu4+MTxxbwWb3nk4EXmC0BDYHeh2KSQMkgiCQiVnR+Sj4ivYK0CDoiPMBaPStl4pomujlj8+/BRWtfSPE95UtSDZcBwQXEKpUmdJtv6msNK8Vv38wdxc3bEJzbc5Yfp5MFg7xOomPfaIwX3Zg456NPiV+CMu/rqF2TCn/aPd6SrTyHhU5YSZceYCxBLqfViqaTwIDAQAB",
         "desc": "Removes Web Annoyances, Supplemental uBO list"
+    },
+    {
+        "uuid": "99435D5C-91CF-4CD2-A5CF-920CE4416C11",
+        "url": "https://raw.githubusercontent.com/qikdauie/qikfox-adblock-lists/main/lists/search-engine.txt",
+        "title": "qikfox search-engine ads list",
+        "format": "Standard",
+        "langs": [],
+        "support_url": "https://github.com/qikdauie/qikfox-adblock-lists",
+        "component_id": "pnajkehgikdedpobakocmhinedncmenk",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuJ4MLMG+xF05kJlHjk8rXC+c4Fap/Xut3KIGfPy+g7oGNIdtI+iaew8CFTza/AUxwkEIZYYvZBFYDnPYStBQsLkTdz53Tk7qkVX6QzXy3d8FVO7maTYr2/UQz9Q2vHG4P+mxbrjoZnyhI6wgq9wVyTKIXjHZRsaO65Fm7pXt9C8SyEo1XJIKCo5/wVW8l9r/tUyZt34RSqgNxdQ42CbYiEZyqHkSgT6teBqQXyd6jVP3s4oLAMZc5q4eIM9IMWdRI4lRW3+z1H8PvTSusDdCXqtdprLvuR3G7YKzR2ErurKQKZXH3xcnkfuXu6pf6MKcR4T5mBahjAPIhIZ7nQr0zQIDAQAB",
+        "desc": "Removes ads on search-engines, Supplemental qikfox list"  
     }
 ]
