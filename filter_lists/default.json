@@ -111,11 +111,4 @@
         "format": "Standard",
         "support_url": "https://github.com/brave/adblock-lists"
     }
-    {
-        "uuid": "10cba8fc-b30e-11ed-afa1-0242ac120002",
-        "url": "https://raw.githubusercontent.com/qikdauie/qikfox-adblock-lists/main/lists/qikfox-unbreak.txt",
-        "title": "qikfox Unbreak",
-        "format": "Standard",
-        "support_url": "https://github.com/qikdauie/qikfox-adblock-lists"
-    }
 ]
