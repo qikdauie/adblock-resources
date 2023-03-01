@@ -28,6 +28,13 @@
         "support_url": "https://github.com/uBlockOrigin/uAssets"
     },
     {
+        "uuid": "C82F50DA-B876-11ED-AFA1-0242AC120002",
+        "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2023.txt",
+        "title": "uBlock Origin 2023 Filters",
+        "format": "Standard",
+        "support_url": "https://github.com/uBlockOrigin/uAssets"
+    },
+    {
         "uuid": "4dda991a-cf59-4acf-82dc-c93bf38fbb31",
         "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt",
         "title": "uBlock Origin filters - Badware risks",
@@ -110,5 +117,12 @@
         "title": "Brave Unbreak",
         "format": "Standard",
         "support_url": "https://github.com/brave/adblock-lists"
+    },
+    {
+        "uuid": "8A33B52C-B877-11ED-AFA1-0242AC120002",
+        "url": "https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-sugarcoat.txt",
+        "title": "SugarCoat Rules",
+        "format": "Standard",
+        "support_url": "https://github.com/brave-experiments/sugarcoat-pipeline"
     }
 ]
