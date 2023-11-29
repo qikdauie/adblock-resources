@@ -124,5 +124,12 @@
         "title": "SugarCoat Rules",
         "format": "Standard",
         "support_url": "https://github.com/brave-experiments/sugarcoat-pipeline"
+    },
+    {
+        "uuid": "58CEA61C-B2A1-4552-B23C-B0C162B5449A",
+        "url": "https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty.txt",
+        "title": "Brave First-Party Specific Filters",
+        "format": "Standard",
+        "support_url": "https://github.com/brave/adblock-lists"
     }
 ]
