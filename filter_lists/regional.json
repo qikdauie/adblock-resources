@@ -465,9 +465,11 @@
         "uuid": "4994DB7E-8F16-11EE-B9D1-0242AC120002",
         "url": "https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty.txt",
         "title": "qikfox Ad Block First Party Filters",
-        "desc": "Default filters that still take effect in standard blocking mode regardless of any first-party status",
+        "format": "Standard",
         "langs": [],
+        "support_url": "https://github.com/brave/adblock-lists"
         "component_id": "ddjlmclpccpaoheicjendekehombloij",
         "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkuKheCIqGfJIUEqB9D50GH2qo8rPl8VUzdDpYFrQYCkVPxOGWu5kBjkRpGIFetvQvw9UpN67kaASBzuBkJwl1iBcbiMhQ9Z3VIUVk5ewXFfqGkCFjvagkpe31gz6J463iPYlTjtHLekvsUjBjB+E13NwiwAKVDTpA65m8pGW1IjUVoo4SUgTvQjgMnTOe+opNdHhFm8TKkilWA525q0d0zQzPdDewPCLnuu+tD+2GoRWtlqr5Egr2PeACxN02HB+GVLFekbsA0NpNHXIv612NCyzRfDMWIGX5bLPwrJ9BqT3TSbad6excHtK7yBfbzWcicGKYmv953dCuE7vvUQZnwIDAQAB",
+        "desc": "Default filters that still take effect in standard blocking mode regardless of any first-party status"
     }
 ]
