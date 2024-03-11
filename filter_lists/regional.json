@@ -98,17 +98,17 @@
         "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArUgWT7alpn9LmyhSyqkH6ia3zwwCq+/Io3BH6wERI1O3lgfMvBC3j8mwGPfzU23ZlZI/0k+TpxUhB6KE4fZOwY2aftZbZlrtF+IwsKULLZhDSjg9fmhkLsfZKlDmpMRDx04SczeeY8+O7Ii8N5Yt4g5cu7urbcYJc/ongD/RFT9GDZghYymVBXswubYgzZBMgTrOXARA+bAi5RXpMrB9w6ni5JPOiaEWCPP6kyPn5fmss6PF/thzJot5pInEdEV54JvHOoApwJRtetNmBQHZnOYwvmy31Mlk+/excMS9xryM2seKucEj60oH5Hu/syVR7exzGkFSVnZJrUVDMN5OdwIDAQAB",
         "desc": "Removes obtrusive cookie law notices"
     },
-    {
-        "uuid": "0CBFA45B-7ADF-4856-AC7C-232FFC49A69",
-        "url": "https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt",
-        "title": "Fanboy Annoyances List",
-        "format": "Standard",
-        "langs": [],
-        "support_url": "https://forums.lanik.us/",
-        "component_id": "pjeempnjggckiebifgmoadfopcahphnm",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqZzyCJydVtbEC+eWpgSyEtsjB7jTGKfY1eTK+TBmeq6pKcTmIEFNTuA+jXRW43lajx1uWAji/mPqXNHrWqszVsoQkQbRfCS1IgJmTzlQHrjlzhv1XmjyYJ+l8BBcWGbGXFFhpG4o1m5kGY0pZscacCZlAU3byv55QermjwY2dCMzaXejvCKZbiel/TBoFdI38WbLa3EgnLh8fLPmIM8qoNpVBKhURcnfWifyK7xyf+H0r+rlIs6Sjm/SaBvhISAXgK+z3jGkcW/2kpnAchWw+/P8+Icl1G/kxwlpSqyx+uh8wShksgWG6yVfo30A97X0N5iyGmjSaqcp7NfUGDei2QIDAQAB+DypeYWal+g63B28OX/xJ3Mwnd4WF0JWeN+i3CxBSidSwCPN6c7/DZF4xUyzpo1uvQnnBL6uYgzBYR6JJ904OVHFEgRM7MIdgve2Z9PyaWvNEEg8I2vqPDyBIu8GAy0UjG9edQLCAgQrmejpxBGXuB6b87FILMryW7ejbUjh39hFhpzu1pmsG1wi4jWX1xzaqUiF5xRPbuBx64BWsAzern4p8XdjH3mXgwJiHItBngcDh1tHKjD7Ke5LmY9gJf9TIXkrBPmiu0SAfVhcwmfj/VuWYa8R06cSaCRZF2QIDAQAB",
-        "desc": "Removes Web annoyances"
-    },
+//    {
+//        "uuid": "0CBFA45B-7ADF-4856-AC7C-232FFC49A69",
+//        "url": "https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt",
+//        "title": "Fanboy Annoyances List",
+//        "format": "Standard",
+//        "langs": [],
+//        "support_url": "https://forums.lanik.us/",
+//        "component_id": "pjeempnjggckiebifgmoadfopcahphnm",
+//        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqZzyCJydVtbEC+eWpgSyEtsjB7jTGKfY1eTK+TBmeq6pKcTmIEFNTuA+jXRW43lajx1uWAji/mPqXNHrWqszVsoQkQbRfCS1IgJmTzlQHrjlzhv1XmjyYJ+l8BBcWGbGXFFhpG4o1m5kGY0pZscacCZlAU3byv55QermjwY2dCMzaXejvCKZbiel/TBoFdI38WbLa3EgnLh8fLPmIM8qoNpVBKhURcnfWifyK7xyf+H0r+rlIs6Sjm/SaBvhISAXgK+z3jGkcW/2kpnAchWw+/P8+Icl1G/kxwlpSqyx+uh8wShksgWG6yVfo30A97X0N5iyGmjSaqcp7NfUGDei2QIDAQAB+DypeYWal+g63B28OX/xJ3Mwnd4WF0JWeN+i3CxBSidSwCPN6c7/DZF4xUyzpo1uvQnnBL6uYgzBYR6JJ904OVHFEgRM7MIdgve2Z9PyaWvNEEg8I2vqPDyBIu8GAy0UjG9edQLCAgQrmejpxBGXuB6b87FILMryW7ejbUjh39hFhpzu1pmsG1wi4jWX1xzaqUiF5xRPbuBx64BWsAzern4p8XdjH3mXgwJiHItBngcDh1tHKjD7Ke5LmY9gJf9TIXkrBPmiu0SAfVhcwmfj/VuWYa8R06cSaCRZF2QIDAQAB",
+//        "desc": "Removes Web annoyances"
+//    },
     {
         "uuid": "C6762501-F180-4422-A2C3-7385C6C4CC78",
         "url": "https://easylist-downloads.adblockplus.org/fanboy-social.txt",
