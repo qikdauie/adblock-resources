@@ -35,6 +35,13 @@
         "support_url": "https://github.com/uBlockOrigin/uAssets"
     },
     {
+        "uuid": "6DF05151-95FF-4C92-8C76-895B613E3990",
+        "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2024.txt",
+        "title": "uBlock Origin 2024 Filters",
+        "format": "Standard",
+        "support_url": "https://github.com/uBlockOrigin/uAssets"
+    },
+    {
         "uuid": "4dda991a-cf59-4acf-82dc-c93bf38fbb31",
         "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt",
         "title": "uBlock Origin filters - Badware risks",
@@ -61,6 +68,13 @@
         "title": "uBlock Origin filters - Unbreak",
         "format": "Standard",
         "support_url": "https://github.com/uBlockOrigin/uAssets"
+    },
+	{
+        "uuid": "AE7D7D51-9757-4D17-80CD-C756586E1C2A",
+        "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/quick-fixes.txt",
+		"title": "uBlock Origin filters - Quick Fixes",
+		"format": "Standard",
+		"support_url": "https://github.com/uBlockOrigin/uAssets"
     },
     {
         "uuid": "67F880F5-7602-4042-8A3D-01481FD7437A",
