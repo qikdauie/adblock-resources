@@ -418,17 +418,6 @@
         "desc": "Removes advertisements from Thai websites"
     },
     {
-        "uuid": "1BE19EFD-9191-4560-878E-30ECA72B5B3C",
-        "url": "https://adguard.com/filter-rules.html?id=13",
-        "title": "Adguard Turkish Filter",
-        "format": "Standard",
-        "langs": ["tr"],
-        "support_url": "https://forum.adguard.com/forumdisplay.php?51-Filter-Rules",
-        "component_id": "mnbnecpplkbjeenhkmlkdcdoekdkoekp",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvD3M549ihJF3Uy7ABfXYPJCV6kf0qSVwPXvb7UpMNms8P7tFUqNPStUQi27AXfVnL5SBMVtjUCXNR3wjivn/rAVYvYD0ud/6KCOCN/rcIxVVZ2KIUu96lkwxCkFwli6c0vSPiy5zhvhoCwOFrZj+br8NiXlcq2fL/BmMNBN1l91BpuZEC/VNiIAH43Q/nYX5ChgJI8TF1Y/kX8+c33hAyS7VdKnf3+4wTSZ+7P7UAYP8KGeH2AogFRe+fDZxMrS/TuaI4ulcVfmzgDvaEvcI9PAVAtv0/x5rTz/fLo5BbAUJq2WUP1mUfLBrwq56baBiC5R9Lb5RIWOfMlwrjYNzSwIDAQAB",
-        "desc": "Removes advertisements from Turkish websites"
-    },
-    {
         "uuid": "6A0209AC-9869-4FD6-A9DF-039B4200D52C",
         "url": "https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt",
         "title": "ABPVN List",
