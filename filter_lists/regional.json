@@ -341,17 +341,6 @@
         "desc": "Removes advertisements from Russian websites"
     },
     {
-        "uuid": "1088D292-2369-4D40-9BDF-C7DC03C05966",
-        "url": "https://adguard.com/en/filter-rules.html?id=1",
-        "title": "Adguard Russian Filter",
-        "format": "Standard",
-        "langs": [],
-        "support_url": "https://forum.adguard.com/forumdisplay.php?69-%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80%D1%8B-Adguard",
-        "component_id": "kleicdekoflgbpnoomejphcegcenljmk",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3Ww1ObWC3AsbrdZfcnQI3uBm+orTnShtkl+vatrrPGoFXANLdgvQ7uKY1q1cPIOAIhnE+bkTQYQgVfpA3acjONotfby96XCtYL6gEYzmZvYvO966huQhWQHT7PXR6Ml6VoqUcVBWfWMhRMruU9HR1IXf+US9iAoxaqDmtJAo8RskQAA3VN+zcwTtHtOJq3orZfjgML69TbHaNGRBg89XpKidnb2RqucdUsGIg9WCOX8d02dDi2LL/WLEhW5ltzsEbY3C4vDzu1VEutvJneIkW0NKyc3y4n+xBVTsEgnLNRBgHx9mf1cZzymHMysT1PrW65lEESdx3WflTOvJ/wllGwIDAQAB",
-        "desc": "Removes additional advertisements from Russian websites, may break some websites"
-    },
-    {
         "uuid": "DABC6490-70E5-46DD-8BE2-358FB9A37C85",
         "url": "https://easylist-downloads.adblockplus.org/bitblock.txt",
         "title": "BitBlock List (Дополнительная подписка фильтров)",
