@@ -42,6 +42,20 @@
         "support_url": "https://github.com/uBlockOrigin/uAssets"
     },
     {
+	"uuid": "82A4E530-4545-11F0-B8FC-67D7646B7B92",
+	"url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2025.txt",
+        "title": "uBlock Origin 2025 Filters",
+        "format": "Standard",
+        "support_url": "https://github.com/uBlockOrigin/uAssets"
+    },
+    {
+	"uuid:": "A8FB8040-4545-11F0-B8FC-67D7646B7B92",
+	"url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-general.txt",
+	"title": "uBlock Origin filters - General",
+	"format": "Standard",
+	"support_url": "https://github.com/uBlockOrigin/uAssets"
+    },
+    {
         "uuid": "4dda991a-cf59-4acf-82dc-c93bf38fbb31",
         "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt",
         "title": "uBlock Origin filters - Badware risks",
@@ -103,13 +117,7 @@
         "format": "Standard",
         "support_url": "https://gitlab.com/curben/urlhaus-filter"
     },
-    {
-        "uuid": "40e22155-6b6d-43fc-a407-6844af78025a",
-        "url": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext",
-        "title": "Peter Lowe's Ad and tracking server list",
-        "format": "Standard",
-        "support_url": "https://pgl.yoyo.org/adservers/"
-    },
+
     {
         "uuid": "2FBEB0BC-E2E1-4170-BAA9-05E76AAB5BA5",
         "url": "https://raw.githubusercontent.com/brave/adblock-lists/master/brave-unbreak.txt",
