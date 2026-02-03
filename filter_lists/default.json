@@ -42,18 +42,25 @@
         "support_url": "https://github.com/uBlockOrigin/uAssets"
     },
     {
-	"uuid": "82A4E530-4545-11F0-B8FC-67D7646B7B92",
-	"url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2025.txt",
+        "uuid": "82A4E530-4545-11F0-B8FC-67D7646B7B92",
+        "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2025.txt",
         "title": "uBlock Origin 2025 Filters",
         "format": "Standard",
         "support_url": "https://github.com/uBlockOrigin/uAssets"
     },
     {
-	"uuid:": "A8FB8040-4545-11F0-B8FC-67D7646B7B92",
-	"url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-general.txt",
-	"title": "uBlock Origin filters - General",
-	"format": "Standard",
-	"support_url": "https://github.com/uBlockOrigin/uAssets"
+        "uuid": "ad76a674-be49-4518-ad72-5c026ad4fbbd",
+        "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2026.txt",
+        "title": "uBlock Origin 2026 Filters",
+        "format": "Standard",
+        "support_url": "https://github.com/uBlockOrigin/uAssets"
+    },
+    {
+        "uuid:": "A8FB8040-4545-11F0-B8FC-67D7646B7B92",
+        "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-general.txt",
+        "title": "uBlock Origin filters - General",
+        "format": "Standard",
+        "support_url": "https://github.com/uBlockOrigin/uAssets"
     },
     {
         "uuid": "4dda991a-cf59-4acf-82dc-c93bf38fbb31",
@@ -86,13 +93,13 @@
     {
         "uuid": "AE7D7D51-9757-4D17-80CD-C756586E1C2A",
         "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/quick-fixes.txt",
-	"title": "uBlock Origin filters - Quick Fixes",
-	"format": "Standard",
-	"support_url": "https://github.com/uBlockOrigin/uAssets"
+        "title": "uBlock Origin filters - Quick Fixes",
+        "format": "Standard",
+        "support_url": "https://github.com/uBlockOrigin/uAssets"
     },
     {
         "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/ubo-link-shorteners.txt",
-	"title": "uBlock Origin filters - link shortners",
+        "title": "uBlock Origin filters - link shortners",
         "format": "Standard",
         "support_url": "https://github.com/uBlockOrigin/uAssets"
     },
@@ -117,7 +124,6 @@
         "format": "Standard",
         "support_url": "https://gitlab.com/curben/urlhaus-filter"
     },
-
     {
         "uuid": "2FBEB0BC-E2E1-4170-BAA9-05E76AAB5BA5",
         "url": "https://raw.githubusercontent.com/brave/adblock-lists/master/brave-unbreak.txt",
@@ -143,6 +149,13 @@
         "uuid": "805662ef-a1aa-4948-9f6e-72603823e886",
         "url": "https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-unbreak.txt",
         "title": "Brave Unbreak",
+        "format": "Standard",
+        "support_url": "https://github.com/brave/adblock-lists"
+    },
+    {
+        "uuid": "02834e79-5636-4dec-a4ab-8c3888c62dc9",
+        "url": "https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-android-specific.txt",
+        "title": "Brave Android-Specific Rules",
         "format": "Standard",
         "support_url": "https://github.com/brave/adblock-lists"
     },
