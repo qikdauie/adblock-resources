@@ -176,17 +176,6 @@
         "desc": "Removes advertisements from Persian websites"
     },
     {
-        "uuid": "48796273-E783-431E-B864-44D3DCEA66DC",
-        "url": "https://adblock.gardar.net/is.abp.txt",
-        "title": "Icelandic ABP List",
-        "format": "Standard",
-        "langs": ["is"],
-        "support_url": "https://adblock.gardar.net/",
-        "component_id": "gemifpfnghahnjdibnofimjceoniljff",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAywSna91tIOXoteui1Z8ypgNhTdB5iBvDnDVE9kfQxM44o8tHimTb9cqYPircRRhvy1dqfRNVf+Dm61PCe9WTYNwhTxzh4ugMKDB7M6rAA601PjdiM+0AnL2sqnYDP9bhJYkWiVdn0tAGDqQ0BEEtiyKHSEEIsl87W8S1dTg16Nc3hONtXnz2e7wE3wjvTPrNpalrT/aVu1G5tKXhs0+hp3sfXMcE9/Ny1kN132bhoQG1CHpdng40FXO1AU3fvMHfWvHyUCAWytaA6AOn42FNnyjJRV0YL0ZM/n541GxhZNHbIvGo5BxKuKlIfEVuUVkbjIvDLoZsSRjupyA8nT/vQwIDAQAB",
-        "desc": "Removes advertisements from Icelandic websites"
-    },
-    {
         "uuid": "85F65E06-D7DA-4144-B6A5-E1AA965D1E47",
         "url": "https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt",
         "title": "EasyList Hebrew",
