@@ -143,22 +143,7 @@
                 "title": "SugarCoat Rules",
                 "format": "Standard",
                 "support_url": "https://github.com/brave-experiments/sugarcoat-pipeline"
-            }
-        ]
-    },
-    {
-        "uuid": "4D715457-307C-4383-8873-73A2FD263F71",
-        "title": "Qikfox Default Adblock Filters",
-        "desc": "Default privacy lists for Qikfox Browser",
-        "langs": [],
-        "hidden": true,
-        "default_enabled": true,
-        "first_party_protections": true,
-        "list_text_component": {
-            "component_id": "kihnoaefogbkmblfimmibknnmkllbhlf",
-            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArTbJVQgtS0Ulo1pd72XT51mhFYXQowGJrrbIfCttxHFyasryxpYVc6835tSXUNddFlCr8sjdPyOc6kRxC3WzGAk0BNFF3bo1Ln93oUnqjwRQ571jojhe4ROu6JpLSwGGxiadp0RmfpYhZiNBzR5e1DZUbEmhRL4lI/OHznZKhSkqVsD3sZ3eF2p+qwT5kqSZvwoylgCuivE6S9hatKcx86Zda2uwj0BQoq04OPX+T+XmT23F50Vrns3p6W7vUxKZuE+EW2Uw/iIQGEIfuh0oa0XqX1C8ounw3KSuubJRV7dAV0EhFs2Gh1xXLR8nfJHs3AFR0GNpieW1xPllDGU5xwIDAQAB"
-        },
-        "sources": [
+            },
             {
                 "url": "https://easylist.to/easylist/easyprivacy.txt",
                 "title": "EasyPrivacy",
@@ -170,28 +155,60 @@
                 "title": "uBlock Origin filters – Privacy",
                 "format": "Standard",
                 "support_url": "https://github.com/uBlockOrigin/uAssets"
-            }
-        ]
-    },
-    {
-        "uuid": "9F38E77A-64AA-4C5F-AF37-727CAE1266FF",
-        "title": "Qikfox IOS-Specific Filters",
-        "desc": "A list for iOS only to handle specific iOS adblocking requirements.",
-        "langs": [],
-        "platforms": ["IOS"],
-        "hidden": true,
-        "default_enabled": true,
-        "first_party_protections": true,
-        "list_text_component": {
-            "component_id": "eaokkjgnlhceblfhbhpeoebmfldocmnc",
-            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuP1aJWk8clHrWt6FdHvFo2khH8GG61XdoQrLJEBLhbp8wpPys9StgFdugsvFsOi4BV9mazauQxWFFSTBpac4IU98QmVc0e0EAZk5wkDzWFK1zK7NxLjrOsdtb32WK86p4dDy8acUJ5v6/crAPFO3cOlR7DQcereiYAS0XSeaQBxWRf68rT/KUv3gN92EAe1JDhPKv4jrAIrJscqfgsFjV5qBYKi0t4t3TybVsZaVEfXNWWj9n3xaDS54Dun+lQOGYekr0qJPWaqe4b/uKeguBqvbiPh7abKYZQOEIkHGjap0nIX8XICqQb2PNrnsuP52hZefqrfdW28kLSqIPPYW/QIDAQAB"
-        },
-        "sources": [
+            },
             {
                 "url": "https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-ios-specific.txt",
                 "title": "Qikfox IOS specific filters",
                 "format": "Standard",
                 "support_url": "https://github.com/brave/adblock-lists"
+            },
+            {
+                "url": "https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt",
+                "format": "Standard",
+                "support_url": "https://forums.lanik.us/"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances-cookies.txt",
+                "title": "uBlock filters – Cookie Notices",
+                "format": "Standard",
+                "support_url": "https://github.com/uBlockOrigin/uAssets"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-cookie-specific.txt",
+                "title": "Brave-specific cookie additions",
+                "format": "Standard",
+                "support_url": "https://github.com/brave/adblock-lists"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances-others.txt",
+                "title": "uBO Annoyances list",
+                "format": "Standard",
+                "support_url": "https://github.com/uBlockOrigin/uAssets"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/easylist/easylist/refs/heads/master/fanboy-addon/fanboy_ai_suggestions.txt",
+                "format": "Standard",
+                "support_url": "https://forums.lanik.us/"
+            },
+            {
+                "url": "https://secure.fanboy.co.nz/fanboy-newsletter.txt",
+                "format": "Standard",
+                "support_url": "https://forums.lanik.us/"
+            },
+            {
+                "url": "https://secure.fanboy.co.nz/fanboy-mobile-notifications.txt",
+                "format": "Standard",
+                "support_url": "https://forums.lanik.us/"
+            },
+            {
+                "url": "https://easylist-downloads.adblockplus.org/fanboy-social.txt",
+                "format": "Standard",
+                "support_url": "https://forums.lanik.us/"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt",
+                "format": "Standard",
+                "support_url": "https://github.com/AdguardTeam/AdguardFilters#adguard-filters"
             }
         ]
     },
@@ -939,127 +956,6 @@
                 "url": "https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn_ublock.txt",
                 "format": "Standard",
                 "support_url": "https://abpvn.com/"
-            }
-        ]
-    },
-    {
-        "uuid": "67E792D4-AE03-4D1A-9EDE-80E01C81F9B8",
-        "title": "Annoying distractions blocker",
-        "desc": "Fanboy's Annoyances + uBO Annoyances",
-        "langs": [],
-        "list_text_component": {
-            "component_id": "omoaeaghhgmiojkeaemjkpkmelmalbgo",
-            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAy/xbKx4WIC1LApciemKEs4rUz8MspYGqLzmhQwIsp6qOqMKiYA9pqOtUXx2TYRPkZODISGSsoqvTZ6Uv7Aerq0Bu06UiDy+H4yU0jFZPVDKsMfj9Ky0DAy7ocuetTIps5Aewx5S0S8g9zeI14PluhqsXlTMLQAqkFeUSsML0qHo94Zgx4T1AwHH8IjvsHB1456OCRjxlTICGL0hEwZdEV2rVYWXtkLzEDZ6guPmvEVKZIhey1DG9fXV57SFCLmBC2eTlv0rYDqqgK6KSUeqyAIHV4eiaqIPMgsRFVnE9JD/Q9xrjeAuFc3pslx4YKI+iuXgfa/8jGpPuKqcDX51F/QIDAQAB"
-        },
-        "sources": [
-            {
-                "url": "https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt",
-                "format": "Standard",
-                "support_url": "https://forums.lanik.us/"
-            },
-            {
-                "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances-cookies.txt",
-                "title": "uBlock filters – Cookie Notices",
-                "format": "Standard",
-                "support_url": "https://github.com/uBlockOrigin/uAssets"
-            },
-            {
-                "url": "https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-cookie-specific.txt",
-                "title": "Brave-specific cookie additions",
-                "format": "Standard",
-                "support_url": "https://github.com/brave/adblock-lists"
-            },
-            {
-                "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances-others.txt",
-                "title": "uBO Annoyances list",
-                "format": "Standard",
-                "support_url": "https://github.com/uBlockOrigin/uAssets"
-            }
-        ]
-    },
-    {
-        "uuid": "6b91e355-1421-4c03-9a30-911b4d0fb277",
-        "title": "AI suggestions blocker",
-        "desc": "Anti-AI suggestions Filters",
-        "langs": [],
-        "list_text_component": {
-            "component_id": "cijficcafkonlbfjfmjeejbjjipdadea",
-            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxdtGogqtpPMKDw7xFgp/Q8pwufcVoiuwgRxuEBVVPrCBkuNBlbe8tnoZ6pS2rWPhlz1UAgZQEh+9Np62KWrFgGId1ryYq5+GSIFyNBfWZJhqBs5j8Kszjhh6ZPCuPveglFSmK9WqIUoEoS/k3E89zWA62c8wWtX4W4h0oQ/P/46TXUfEHMGn6vBhbRGDzOOBf/IwrtptTvyDenpvkE9/nBTOvzCJ5ZPuKUxhIGTOZQ3Rzp+75Wd0vcACGsJVK+1zk1hBWBqbuQhzdiKEgmAwSCCPaA646JCBfts7o+ZmUlu1wrykpuNIcUBZQViJM3C0ouCozxgl+wwVKvKtH5LQFQIDAQAB"
-        },
-        "sources": [
-            {
-                "url": "https://raw.githubusercontent.com/easylist/easylist/refs/heads/master/fanboy-addon/fanboy_ai_suggestions.txt",
-                "format": "Standard",
-                "support_url": "https://forums.lanik.us/"
-            }
-        ]
-    },
-    {
-        "uuid": "690FF3B4-8B6B-4709-8505-FEC6643D7BD9",
-        "title": "Newsletter popup blocker",
-        "desc": "Fanboy's Anti-Newsletter",
-        "langs": [],
-        "list_text_component": {
-            "component_id": "kdddfellohomdnfkdhombbddhojklibj",
-            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr2V5xKHqddrLQr8mNlL4UQGUYfK62ftOlacYb23wPWfW1We4jIOHtYqHg81D7gYckSBejkLh2HqmGa6RxehFTQf8g/L8G1dgzQ10VrQF4STNJiva/EkhcEJHai279biESL6HLVTDun2BnXENxCUR7hc8hDM4xw2ZlaqMMUtFJwhQW96dzbLVG3yP7k8TDwX1dRaAa/Pe+Ie7OYhIUQp4I3rWn3GmhfKBxQalHce/7lQpZwCP8Q/Tz7D8GzvMu+dYm5LnP7LUfC2SdSM0jm3qqwKkWlT1W05tsce4vk2cnxwUUWOAh60TSzQ1d1DX/PfJBUzQG6gkWRMxGNLi+T4i9QIDAQAB"
-        },
-        "sources": [
-            {
-                "url": "https://secure.fanboy.co.nz/fanboy-newsletter.txt",
-                "format": "Standard",
-                "support_url": "https://forums.lanik.us/"
-            }
-        ]
-    },
-    {
-        "uuid": "2F3DCE16-A19A-493C-A88F-2E110FBD37D6",
-        "title": "Mobile app promo blocker",
-        "desc": "Fanboy's Mobile Notifications",
-        "langs": [],
-        "default_enabled": true,
-        "list_text_component": {
-            "component_id": "bfpgedeaaibpoidldhjcknekahbikncb",
-            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA310+gKMk4QUl7K23eSXHDukkg1Ped5At02N11zRHJf52mTFy6jnUgA7vo1hkARNHHJDwI9dSyfYsAtrw9qgo/V9ygDBkgShHyYC7c08pgUkdlciaZepj633yuMyyFK9lo3PEF+f1kOodE/Vq4ybJTChDcotuT5bAi57d1Jiizgv5Rz4W9ZvqsWOVbiclQTY+28wTpfuCLznV7mrx7kvm1D2aQaLaJ2R/936DkXRqUn8Ty9GGGaHqx9HK2JgB5RjwFk0esarZyua0kRB5JwMUGu+TsEiGgDpCbRka3nfxItwhoWGBYPwdapkdUr7l3RdeTCLUWmCBdkpmDMhbrG3ctQIDAQAB"
-        },
-        "sources": [
-            {
-                "url": "https://secure.fanboy.co.nz/fanboy-mobile-notifications.txt",
-                "format": "Standard",
-                "support_url": "https://forums.lanik.us/"
-            }
-        ]
-    },
-    {
-        "uuid": "7911A1CB-304E-4CDB-ABB3-E2A94A37E4DD",
-        "title": "Social media blocker",
-        "desc": "Fanboy's Social",
-        "langs": [],
-        "list_text_component": {
-            "component_id": "nbkknaieglghmocpollinelcggiehfco",
-            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs6ib1E68QTHuz/TdEn+ck++Okbcf5xDfQjkhpTb59fnjm0rjII6MV3rWLEj5dkOvpAVzDzFCcyC/JJ/SYIY7nFRQl+ptttd1nLWNu7qewFGh2tezwuEMzPlzQr+KK93Yh0dooCC9KniR/0+kpYeGqBC8tBGz8f4KoV+/zTfkD/47pztflCxNJfrAj4P0GDQhvz8lBtnm6Pa7tGOMhksnMsYWRWsYs6uvjsfd+3uYbiCYa7lEMjZZKy7dHg8hPSUeGZo28kTqYFXufH5jY3q7Luk+dQey1+m1X97KLPOtmwaLFCFqWBha5qFMg/mgzczlaphReFUycwrYVjjOICKrYwIDAQAB"
-        },
-        "sources": [
-            {
-                "url": "https://easylist-downloads.adblockplus.org/fanboy-social.txt",
-                "format": "Standard",
-                "support_url": "https://forums.lanik.us/"
-            }
-        ]
-    },
-    {
-        "uuid": "E2FA7D98-0BD5-493E-8AF4-950604ADE9CB",
-        "title": "Tracking URL blocker",
-        "desc": "AdGuard URL Tracking Protection Filters",
-        "langs": [],
-        "list_text_component": {
-            "component_id": "acjngemejiflkehbcbomjgkbfhjlgioh",
-            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1rHaQ0bQIJ5cy/FaPShexLfM/zwGsGnknGMEhIAU0V6+0TZmsbQ9cMTLORisXp7doJuYh6umGrotJ27lnj4wl3UnKFJMpOFeh3zd1cafpwDWvyCuH1d0S8N3stiGkP7XOH/B1emXb+gCuuxVYHu+B9JaPZD02nWFCW/AoIYEjbtUB9we+fCF0MJ9/VHeOk554r17DfXvROc3i7wLm8crDjESm3cZB14mrW60u1l+ll6vwA5zOXxGPFl7MWfa+Y+FRG0gWJq1g+5Uf7Qfm1bRNfaJW8vtGmjCaGXzuBBOUol2plSrWfUEj0pRZ1/py0vtJneVBrs6ubSMPwbKzjot6QIDAQAB"
-        },
-        "sources": [
-            {
-                "url": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt",
-                "format": "Standard",
-                "support_url": "https://github.com/AdguardTeam/AdguardFilters#adguard-filters"
             }
         ]
     },
