@@ -147,6 +147,55 @@
         ]
     },
     {
+        "uuid": "4D715457-307C-4383-8873-73A2FD263F71",
+        "title": "Qikfox Default Adblock Filters",
+        "desc": "Default privacy lists for Qikfox Browser",
+        "langs": [],
+        "hidden": true,
+        "default_enabled": true,
+        "first_party_protections": true,
+        "list_text_component": {
+            "component_id": "kihnoaefogbkmblfimmibknnmkllbhlf",
+            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArTbJVQgtS0Ulo1pd72XT51mhFYXQowGJrrbIfCttxHFyasryxpYVc6835tSXUNddFlCr8sjdPyOc6kRxC3WzGAk0BNFF3bo1Ln93oUnqjwRQ571jojhe4ROu6JpLSwGGxiadp0RmfpYhZiNBzR5e1DZUbEmhRL4lI/OHznZKhSkqVsD3sZ3eF2p+qwT5kqSZvwoylgCuivE6S9hatKcx86Zda2uwj0BQoq04OPX+T+XmT23F50Vrns3p6W7vUxKZuE+EW2Uw/iIQGEIfuh0oa0XqX1C8ounw3KSuubJRV7dAV0EhFs2Gh1xXLR8nfJHs3AFR0GNpieW1xPllDGU5xwIDAQAB"
+        },
+        "sources": [
+            {
+                "url": "https://easylist.to/easylist/easyprivacy.txt",
+                "title": "EasyPrivacy",
+                "format": "Standard",
+                "support_url": "https://easylist.to/"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt",
+                "title": "uBlock Origin filters – Privacy",
+                "format": "Standard",
+                "support_url": "https://github.com/uBlockOrigin/uAssets"
+            }
+        ]
+    },
+    {
+        "uuid": "9F38E77A-64AA-4C5F-AF37-727CAE1266FF",
+        "title": "Qikfox IOS-Specific Filters",
+        "desc": "A list for iOS only to handle specific iOS adblocking requirements.",
+        "langs": [],
+        "platforms": ["IOS"],
+        "hidden": true,
+        "default_enabled": true,
+        "first_party_protections": true,
+        "list_text_component": {
+            "component_id": "eaokkjgnlhceblfhbhpeoebmfldocmnc",
+            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuP1aJWk8clHrWt6FdHvFo2khH8GG61XdoQrLJEBLhbp8wpPys9StgFdugsvFsOi4BV9mazauQxWFFSTBpac4IU98QmVc0e0EAZk5wkDzWFK1zK7NxLjrOsdtb32WK86p4dDy8acUJ5v6/crAPFO3cOlR7DQcereiYAS0XSeaQBxWRf68rT/KUv3gN92EAe1JDhPKv4jrAIrJscqfgsFjV5qBYKi0t4t3TybVsZaVEfXNWWj9n3xaDS54Dun+lQOGYekr0qJPWaqe4b/uKeguBqvbiPh7abKYZQOEIkHGjap0nIX8XICqQb2PNrnsuP52hZefqrfdW28kLSqIPPYW/QIDAQAB"
+        },
+        "sources": [
+            {
+                "url": "https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-ios-specific.txt",
+                "title": "Qikfox IOS specific filters",
+                "format": "Standard",
+                "support_url": "https://github.com/brave/adblock-lists"
+            }
+        ]
+    },
+    {
         "uuid": "9FCEECEC-52B4-4487-8E57-8781E82C91D0",
         "title": "Liste AR",
         "desc": "Liste AR",
@@ -894,6 +943,450 @@
         ]
     },
     {
+        "uuid": "67E792D4-AE03-4D1A-9EDE-80E01C81F9B8",
+        "title": "Annoying distractions blocker",
+        "desc": "Fanboy's Annoyances + uBO Annoyances",
+        "langs": [],
+        "list_text_component": {
+            "component_id": "omoaeaghhgmiojkeaemjkpkmelmalbgo",
+            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAy/xbKx4WIC1LApciemKEs4rUz8MspYGqLzmhQwIsp6qOqMKiYA9pqOtUXx2TYRPkZODISGSsoqvTZ6Uv7Aerq0Bu06UiDy+H4yU0jFZPVDKsMfj9Ky0DAy7ocuetTIps5Aewx5S0S8g9zeI14PluhqsXlTMLQAqkFeUSsML0qHo94Zgx4T1AwHH8IjvsHB1456OCRjxlTICGL0hEwZdEV2rVYWXtkLzEDZ6guPmvEVKZIhey1DG9fXV57SFCLmBC2eTlv0rYDqqgK6KSUeqyAIHV4eiaqIPMgsRFVnE9JD/Q9xrjeAuFc3pslx4YKI+iuXgfa/8jGpPuKqcDX51F/QIDAQAB"
+        },
+        "sources": [
+            {
+                "url": "https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt",
+                "format": "Standard",
+                "support_url": "https://forums.lanik.us/"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances-cookies.txt",
+                "title": "uBlock filters – Cookie Notices",
+                "format": "Standard",
+                "support_url": "https://github.com/uBlockOrigin/uAssets"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-cookie-specific.txt",
+                "title": "Brave-specific cookie additions",
+                "format": "Standard",
+                "support_url": "https://github.com/brave/adblock-lists"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances-others.txt",
+                "title": "uBO Annoyances list",
+                "format": "Standard",
+                "support_url": "https://github.com/uBlockOrigin/uAssets"
+            }
+        ]
+    },
+    {
+        "uuid": "6b91e355-1421-4c03-9a30-911b4d0fb277",
+        "title": "AI suggestions blocker",
+        "desc": "Anti-AI suggestions Filters",
+        "langs": [],
+        "list_text_component": {
+            "component_id": "cijficcafkonlbfjfmjeejbjjipdadea",
+            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxdtGogqtpPMKDw7xFgp/Q8pwufcVoiuwgRxuEBVVPrCBkuNBlbe8tnoZ6pS2rWPhlz1UAgZQEh+9Np62KWrFgGId1ryYq5+GSIFyNBfWZJhqBs5j8Kszjhh6ZPCuPveglFSmK9WqIUoEoS/k3E89zWA62c8wWtX4W4h0oQ/P/46TXUfEHMGn6vBhbRGDzOOBf/IwrtptTvyDenpvkE9/nBTOvzCJ5ZPuKUxhIGTOZQ3Rzp+75Wd0vcACGsJVK+1zk1hBWBqbuQhzdiKEgmAwSCCPaA646JCBfts7o+ZmUlu1wrykpuNIcUBZQViJM3C0ouCozxgl+wwVKvKtH5LQFQIDAQAB"
+        },
+        "sources": [
+            {
+                "url": "https://raw.githubusercontent.com/easylist/easylist/refs/heads/master/fanboy-addon/fanboy_ai_suggestions.txt",
+                "format": "Standard",
+                "support_url": "https://forums.lanik.us/"
+            }
+        ]
+    },
+    {
+        "uuid": "690FF3B4-8B6B-4709-8505-FEC6643D7BD9",
+        "title": "Newsletter popup blocker",
+        "desc": "Fanboy's Anti-Newsletter",
+        "langs": [],
+        "list_text_component": {
+            "component_id": "kdddfellohomdnfkdhombbddhojklibj",
+            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr2V5xKHqddrLQr8mNlL4UQGUYfK62ftOlacYb23wPWfW1We4jIOHtYqHg81D7gYckSBejkLh2HqmGa6RxehFTQf8g/L8G1dgzQ10VrQF4STNJiva/EkhcEJHai279biESL6HLVTDun2BnXENxCUR7hc8hDM4xw2ZlaqMMUtFJwhQW96dzbLVG3yP7k8TDwX1dRaAa/Pe+Ie7OYhIUQp4I3rWn3GmhfKBxQalHce/7lQpZwCP8Q/Tz7D8GzvMu+dYm5LnP7LUfC2SdSM0jm3qqwKkWlT1W05tsce4vk2cnxwUUWOAh60TSzQ1d1DX/PfJBUzQG6gkWRMxGNLi+T4i9QIDAQAB"
+        },
+        "sources": [
+            {
+                "url": "https://secure.fanboy.co.nz/fanboy-newsletter.txt",
+                "format": "Standard",
+                "support_url": "https://forums.lanik.us/"
+            }
+        ]
+    },
+    {
+        "uuid": "2F3DCE16-A19A-493C-A88F-2E110FBD37D6",
+        "title": "Mobile app promo blocker",
+        "desc": "Fanboy's Mobile Notifications",
+        "langs": [],
+        "default_enabled": true,
+        "list_text_component": {
+            "component_id": "bfpgedeaaibpoidldhjcknekahbikncb",
+            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA310+gKMk4QUl7K23eSXHDukkg1Ped5At02N11zRHJf52mTFy6jnUgA7vo1hkARNHHJDwI9dSyfYsAtrw9qgo/V9ygDBkgShHyYC7c08pgUkdlciaZepj633yuMyyFK9lo3PEF+f1kOodE/Vq4ybJTChDcotuT5bAi57d1Jiizgv5Rz4W9ZvqsWOVbiclQTY+28wTpfuCLznV7mrx7kvm1D2aQaLaJ2R/936DkXRqUn8Ty9GGGaHqx9HK2JgB5RjwFk0esarZyua0kRB5JwMUGu+TsEiGgDpCbRka3nfxItwhoWGBYPwdapkdUr7l3RdeTCLUWmCBdkpmDMhbrG3ctQIDAQAB"
+        },
+        "sources": [
+            {
+                "url": "https://secure.fanboy.co.nz/fanboy-mobile-notifications.txt",
+                "format": "Standard",
+                "support_url": "https://forums.lanik.us/"
+            }
+        ]
+    },
+    {
+        "uuid": "7911A1CB-304E-4CDB-ABB3-E2A94A37E4DD",
+        "title": "Social media blocker",
+        "desc": "Fanboy's Social",
+        "langs": [],
+        "list_text_component": {
+            "component_id": "nbkknaieglghmocpollinelcggiehfco",
+            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs6ib1E68QTHuz/TdEn+ck++Okbcf5xDfQjkhpTb59fnjm0rjII6MV3rWLEj5dkOvpAVzDzFCcyC/JJ/SYIY7nFRQl+ptttd1nLWNu7qewFGh2tezwuEMzPlzQr+KK93Yh0dooCC9KniR/0+kpYeGqBC8tBGz8f4KoV+/zTfkD/47pztflCxNJfrAj4P0GDQhvz8lBtnm6Pa7tGOMhksnMsYWRWsYs6uvjsfd+3uYbiCYa7lEMjZZKy7dHg8hPSUeGZo28kTqYFXufH5jY3q7Luk+dQey1+m1X97KLPOtmwaLFCFqWBha5qFMg/mgzczlaphReFUycwrYVjjOICKrYwIDAQAB"
+        },
+        "sources": [
+            {
+                "url": "https://easylist-downloads.adblockplus.org/fanboy-social.txt",
+                "format": "Standard",
+                "support_url": "https://forums.lanik.us/"
+            }
+        ]
+    },
+    {
+        "uuid": "9E8EC586-4E17-4E5E-99D7-35172C4CEA74",
+        "title": "YouTube Shorts blocker",
+        "desc": "YouTube Anti-Shorts",
+        "langs": [],
+        "list_text_component": {
+            "component_id": "almolcgbkikkhliiibfjkohebgklegam",
+            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs+jKXsk0ynC51YEJWZa8PmrF7o73NQB+8KIkWB8kvSYzMFFtByWVGXhpfYbx9jyD/BJQN8kt4hgKofjfixLqzIfevkEeuyGtVN5KYoZpA5zF2X6jTY4ZKlqHc14ox306/FXjtsiLGg+9Y/ToCGWOTvfQsYEpKO+6BQEcBMMGzNhDR2MQaBMNcd3/o7RF7oUaF4Zye/X5WQD+2IrkrfOqHxd2dSstIQRvmGZH5Tuyehf3jNCRKRoQe7v1M0DGwYUJ7B2eO4PrQf+B1NTzxtPBQWUm3k7dAAHm6YTWfUvnwF7rbJs/Rv/jqRPpy+Z6qu3NyfJki7COtchwnqbbkUkAtQIDAQAB"
+        },
+        "sources": [
+            {
+                "url": "https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/yt-shorts.txt",
+                "format": "Standard",
+                "support_url": "https://github.com/brave/adblock-lists"
+            }
+        ]
+    },
+    {
+        "uuid": "5c6a6c95-b60a-4695-9efb-539359022531",
+        "title": "YouTube Playables blocker",
+        "desc": "Remove Youtube Playables",
+        "langs": [],
+        "list_text_component": {
+            "component_id": "abhafnnblaoofkgacbenbhhalbohmail",
+            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAthWre55FJf09Q8sw9qgTKs3bYzv7NM6Rp+bupMQ7mLrXVFXb6n/FSJS2QOjxPD5vV/Zw+f6/eRK9NO5vD43LhczKTZgqxuuIzDtR4pRagCgqf7h1nHAxoF0xb3Qz+5lmbSdRV4WdGlfpldmuc23duZhZOAkA+cSxs1bTuVZOLPkxR0JGNuYLgI9E+R8YkiWDhmH/eRt1iqay3fJJQ2t0+kbmSAPoYYkjICnYm6GMfewzK41Dd3PRWMf/9trPwbxAop4dNK6Cs6D26yAIoTv+LJXC3hyXgZaXey6cqBRZIbU388vOZi9TnIjbYU411myTg8B6/9jp2lWPXBH6qpmkewIDAQAB"
+        },
+        "sources": [
+            {
+                "url": "https://raw.githubusercontent.com/easylist/easylist/refs/heads/master/custom-lists/youtube-playables.txt",
+                "format": "Standard",
+                "support_url": "https://github.com/easylist/easylist"
+            }
+        ]
+    },
+    {
+        "uuid": "2D57ADED-3531-419A-9DED-7F8868BC1561",
+        "title": "YouTube recommendations blocker (mobile-only)",
+        "desc": "YouTube Mobile Recommendations",
+        "langs": [],
+        "list_text_component": {
+            "component_id": "phdmgpanpejkbmbljlhcehpadabljfbk",
+            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv1vkW0NQdDtdNQt/BZ9M803R3dHx3ow0XN3rCh4vo9lXpiJot7RIxTSo2qKUWHype4g0MCL/NIiFq6jY0rdBpCP5hv6GmFf6r8uZsurWA/FVH7hzY1tcJ1t5zBZUufamlWQjeUdCkflsrP6p07JK3SR1WFi8xcTT2uQ8Yrkb6ioq5C1mBOljbVPJuYzk99acKu55lvWG2uKH9aDuHd0OuK8+CJycWVDdeFoGXuGHlTfURDbmgnv2P23jctE0viEH+vuk5ecofhmBG0rXpbF/fqJJYQu6DINIyc4E9NQ8W2ryutTBo7r9ZbW68uiAe+7UVrMkFagjl66xK0WXNcGBlwIDAQAB"
+        },
+        "sources": [
+            {
+                "url": "https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/yt-recommended.txt",
+                "format": "Standard",
+                "support_url": "https://github.com/brave/adblock-lists"
+            }
+        ]
+    },
+    {
+        "uuid": "7f11b964-4f36-4e06-9d75-bd16381b9386",
+        "title": "YouTube autodubbed videos blocker",
+        "desc": "Remove Youtube Autodubbed videos",
+        "langs": [],
+        "list_text_component": {
+            "component_id": "gdmleoblaklbnepkfgceepngljjmgfpg",
+            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtLmBFZxKnvrqsIobmvpt7nIieqYlVqHu3AMVXS8YK8CDf6/Jiul5Vl3nqtVmF6pmrGZsJPmVARs7fgV7/EbQksIv/J9pxQ8632UZ3BgUVoy4Y9FuwbXxT9h8ywYiWRm/YuHkeXOCVyvN+l5X91sC5G/nsO8pHUOp9/Y2FS10MgDeywMty1X56HXMLAwqzoDycW0QH1wTTXGD8U/kt1yJrZaVntSIlcYp8iYKZWLiuRts9m9kbNm6bvUqTvqlYeb658rZBrbZVh792VZP0TNjxmB7oHjDL5hs5xulAzLj7M7eeanL4hyXiiBzoi7Rkhph+bV/wTXx9Ip7nH7aT6KI+QIDAQAB"
+        },
+        "sources": [
+            {
+                "url": "https://raw.githubusercontent.com/easylist/easylist/refs/heads/master/custom-lists/youtube-autodubbed.txt",
+                "format": "Standard",
+                "support_url": "https://github.com/easylist/easylist"
+            }
+        ]
+    },
+    {
+        "uuid": "d579f370-6de3-4507-aa9a-cee4227e59f5",
+        "title": "YouTube end video elements blocker",
+        "desc": "Remove Youtube End video elements",
+        "langs": [],
+        "list_text_component": {
+            "component_id": "kjdkgfbncofapgmdlnlfhnnnlmkndelp",
+            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtt6G6ZY04k4utmx2Ay9ZVDI/ck5fdEf+MSQvV1i+YX86KeW5JtLijvbUtvjImVnd7KNuXiVWwTY4AIZbEU5RmYKlaDuQgrHHoxTInc/IZCiugapGJruBzgBp0LgFP01Mzchb6hwI5C7B5t0EHSIlJgSb4yLPUOczBynI+WBc2qu1CIIxFzMszyaxQt5+u7anZAw+FobWSEjmqP4yzSN8fjw7KOH/0+oBPK/H7f3BrTVsX2o2516tpHLeq60kwgq7LiNk/8ff5wFDvZXB/CnrpnY0g8psE6RKGpprfDKjeAlkBfwMj9mQeJGUdy10GDS4BF7BXeRergR7R22PvhQbXQIDAQAB"
+        },
+        "sources": [
+            {
+                "url": "https://raw.githubusercontent.com/easylist/easylist/refs/heads/master/custom-lists/youtube-endscreen-elements.txt",
+                "format": "Standard",
+                "support_url": "https://github.com/easylist/easylist"
+            }
+        ]
+    },
+    {
+        "uuid": "49958da7-f532-4a84-a765-9501729b8e75",
+        "title": "YouTube members-only video blocker",
+        "desc": "Remove Youtube Members video advertisements",
+        "langs": [],
+        "list_text_component": {
+            "component_id": "pbkpnahgockepdffchhnmjfgocmdbdhc",
+            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAi+3kFflz/T/23jCZhh9hh4uFlHzAM8nFm+F5oP4MB6P6gboajLIP6X4xsgODxk4vbe6bPm59cgnT9gjKGgSbJM0sG9uYXMFTCCDvALu0ftekOHVUJm5WIwxzBbXfHWzbJm7HPtkiezFPfKvric7aI4oZdO6QSAwP8K57zxvK6UFZ0BFBCjCE+ryyOEMM/eEWpNnvtxw5gXWp/Ur7QPCrN/vYvFf2l6NlsYyc5ExFXToeSp6FByfSEvyhTuRwbM5RkCF2lPbkX5js1Hy46aqhJ+8FsfKpfEh3fNq34W55hHx3hHhAp/W3TvSJ+ZdMRQocatKpGwMSc1nl0WCcm8EpXQIDAQAB"
+        },
+        "sources": [
+            {
+                "url": "https://raw.githubusercontent.com/easylist/easylist/refs/heads/master/custom-lists/youtube-membersonly.txt",
+                "format": "Standard",
+                "support_url": "https://github.com/easylist/easylist"
+            }
+        ]
+    },
+    {
+        "uuid": "BD308B90-D3BB-4041-9114-22E096B0BA77",
+        "title": "YouTube distractions elements blocker (mobile-only)",
+        "desc": "YouTube Mobile Distractions",
+        "langs": [],
+        "list_text_component": {
+            "component_id": "cpapfkpkeaajehipopnaiihfmbfbnkdp",
+            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA11xzFtkVM4xI3AeJ281iUJUmDGSjWXdNDJkP0Mv7LNdc1fa8hQuc/gOKdU9S6UjxA3HEpHMucIFKMcQZ07A9MUjiP+B/fwxrTrfwqFKyePQkrd05HjhwDgzmfBpCgx9nQjDubEamzsb0yUKj+gL3D13f4tBi7pb5GHhGAY3smwZP0Dp+ydO5ec9fs1AdgLX6kK/mTuCr+oMf9ZOkTp8KxMS6MyN/NhsMG4Jis+mOuRdoBzvF7y7p/BUm3ewVJZ2KtMz2W6/v966kpaPX+PDdKK2qdGcIClq1nFgKB8dcjorPq6xjJhvflwAtXqYXfMD2h/7Pkdz6aHZc8NmVAg4R7wIDAQAB"
+        },
+        "sources": [
+            {
+                "url": "https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/yt-distracting.txt",
+                "format": "Standard",
+                "support_url": "https://github.com/brave/adblock-lists"
+            }
+        ]
+    },
+    {
+        "uuid": "3afa9d35-d837-45b5-b742-b3d0fe94e77c",
+        "title": "YouTube thumbnail image blocker",
+        "desc": "Remove Youtube thumbnail images",
+        "langs": [],
+        "list_text_component": {
+            "component_id": "ggcbgmjhlhfgmijeocidfaagohcldncn",
+            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlouCSyvEBF9WSpX/BtlVQUrV3U6zcL/SU05bz+yIbf0EwH71jHqOg13pE+KWm0rrmdNx2KW7DBEb3BAe4n9pjDxSmqp3I4WPLBnC0DAY0OgMHHKEqfBIn8QIGVvLGY6ParKHa0a31vouyuV8rQVoMRVM/+o3dZMMX17/vTRNJBxBTIGIOxOidJ5GYEcW1jtDU8IzXBxPWdGE9RaxsWrdtnN+KWHfXmPqC7XvWZx4QH4oWtUlfICcaVed6gL5N58s37E5+0ou/q9zXOMfuxch+rX4yKdx4Sp5oCOZAcFnNFOhz/Xf1Fvtgl953T4vaoVEFhQJbbbrhO6ErEPwi6tXlwIDAQAB"
+        },
+        "sources": [
+            {
+                "url": "https://raw.githubusercontent.com/easylist/easylist/refs/heads/master/custom-lists/youtube-nothumbnails.txt",
+                "format": "Standard",
+                "support_url": "https://github.com/easylist/easylist"
+            }
+        ]
+    },
+    {
+        "uuid": "E2FA7D98-0BD5-493E-8AF4-950604ADE9CB",
+        "title": "Tracking URL blocker",
+        "desc": "AdGuard URL Tracking Protection Filters",
+        "langs": [],
+        "list_text_component": {
+            "component_id": "acjngemejiflkehbcbomjgkbfhjlgioh",
+            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1rHaQ0bQIJ5cy/FaPShexLfM/zwGsGnknGMEhIAU0V6+0TZmsbQ9cMTLORisXp7doJuYh6umGrotJ27lnj4wl3UnKFJMpOFeh3zd1cafpwDWvyCuH1d0S8N3stiGkP7XOH/B1emXb+gCuuxVYHu+B9JaPZD02nWFCW/AoIYEjbtUB9we+fCF0MJ9/VHeOk554r17DfXvROc3i7wLm8crDjESm3cZB14mrW60u1l+ll6vwA5zOXxGPFl7MWfa+Y+FRG0gWJq1g+5Uf7Qfm1bRNfaJW8vtGmjCaGXzuBBOUol2plSrWfUEj0pRZ1/py0vtJneVBrs6ubSMPwbKzjot6QIDAQAB"
+        },
+        "sources": [
+            {
+                "url": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt",
+                "format": "Standard",
+                "support_url": "https://github.com/AdguardTeam/AdguardFilters#adguard-filters"
+            }
+        ]
+    },
+    {
+        "uuid": "1ED1870B-997C-4BFE-AEBC-B67D679BAF3B",
+        "title": "Chat app blocker",
+        "desc": "Fanboy's Anti-chat Apps",
+        "langs": [],
+        "list_text_component": {
+            "component_id": "cjoooeeofnfjohnalnghhmdlalopplja",
+            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv1O0sayAdmrsaqTddCEZwwHvpjjCbR/2qYj0xh9FsFMS17yIHpZRTZw8F8b0NFDAb/hIuIpNeaBXZUN/oPG9eWv4GoV0fDIr9UST5WzB+zPBYgSV1S8TkqLnkDvE5sTmzG98sd3VL/L7PeijOCidcKnSyG5hkP+UNHmKUaRnLlUTM/ificlkjR8IKMNFrC+e4PjHkF+EtBFLKR9Qb9iEJHEjDbjEgtozDs3IrGGsrK3WF4A6iqD5zMX50FvUAqPkAhm9jnfyISarfwkI5WlhQ/mmA0c/U5lXFg5v7MoLR05ns9G40jqOc8jFmzVaayBVF/7RaR9wxVlxEzzMDoA37QIDAQAB"
+        },
+        "sources": [
+            {
+                "url": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_chatapps_third-party.txt",
+                "format": "Standard",
+                "support_url": "https://forums.lanik.us/"
+            }
+        ]
+    },
+    {
+        "uuid": "78672887-A098-4D2C-B0CB-A3DEC4834DA7",
+        "title": "Paywall blocker",
+        "desc": "Bypass Paywalls Clean Filters",
+        "langs": [],
+        "list_text_component": {
+            "component_id": "mjhbdghipcamfoojbeikdojibeelbmil",
+            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4p2Fx/w0R4RVscwM1bobz4jcc40AkE+Ccp9azcUreKZWa3I75hv4G9MQOp9xHvxXVxcIVqRiGDdSyyDHCe+YMbYMQJhGdTEItPx5c3IZ/Lq35gJXLBb5+dqW+g5lp9I8+19YN5GLnkVU2snMosJ+ie6rkQaE2zoFOiPf7Uiode5FroCsgDh+OZpOeXkbbOWUBgNY3zaAZ9PY00k4R327Qk01LUfhokfgZxcvxOofIuIR992q5xxPreMHat2ZBDbEuLAuNda6/cJqhn6M4cCyHJh4+bv9GjcBGtd/QGiXD/s48fPfm453wYjd+DAtmLwBjQOsw4gcPmt5gTui6eAkOQIDAQAB"
+        },
+        "sources": [
+            {
+                "url": "https://gitflic.ru/project/magnolia1234/bypass-paywalls-clean-filters/blob/raw?file=bpc-paywall-filter.txt",
+                "format": "Standard",
+                "support_url": "https://gitflic.ru/project/magnolia1234/bypass-paywalls-clean-filters"
+            }
+        ]
+    },
+    {
+        "uuid": "F61D6B7B-4110-4EA4-9C81-38FB4CE90AEC",
+        "title": "Porn blocker",
+        "desc": "Blocklists Anti-Porn",
+        "langs": [],
+        "list_text_component": {
+            "component_id": "lbnibkdpkdjnookgfeogjdanfenekmpe",
+            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvLwepAP2UzEBpQraDyQ4rbGWmswgYLEyvEssFGmZ9uAHj3jtP2vE2w4AwpIsyg6zaD2Wx7fsgPTHxb1hZrT7lMK7RJzzrAeINlfbNwzxte7lkedxLdEaq+HrQunnBK9MY1fSonVmMohYCi7Gk+loUrGnQpuspVI6VJJ4N34sb8qiKueyx5+IyQpIBNPclhGs22yxohHN15r9sOcqsZ9XwNR1r7wZHE+pK1gu0a70zoY0WPPXFHZSHlbCz4VxLWeHwWdnx3yVOkgVOiacilCuutcptl+09IVFYHxTjquOZHZHcLFM78nju1K4R4V3IlEaXjxnYTfo+VJBQniBD/T81wIDAQAB"
+        },
+        "sources": [
+            {
+                "url": "https://raw.githubusercontent.com/blocklistproject/Lists/master/adguard/porn-ags.txt",
+                "format": "Standard",
+                "support_url": "https://github.com/blocklistproject/Lists"
+            }
+        ]
+    },
+    {
+        "uuid": "EDEEE15A-6FA9-4FAC-8CA8-3565508EAAC3",
+        "title": "Hungarian website ad blocker",
+        "desc": "Hufilter",
+        "langs": ["hu"],
+        "list_text_component": {
+            "component_id": "ldnolaledjfkfgpjkbkcfjiaejeeanmh",
+            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7xknL/MMlSEoLkHDXwyP7S9c2e9q2bYvfBeaA0ZOQG4O3hB0AInjki37iHINkQX/UAEprDDqwNOO0Xp/pWBWItrFYkgPmgfzoaMZ7PnwUiA7/+9Z+JoKJcqJTWI7VlVmUpeclWcL+hqdhcjVGdGK4Y8wupADUpasqsG0mjwlpQ4ur0+G6qJIvbYB95L6Jk1OjwE89RjxYQNPw0cb0bxWUDZ1uLSJHe6eMvMH4P6V8ihwltHG0FpZ6B9U2uV6r1KeTWCbfsWJJLPmzCW861/lSJtOSBynVcsS8m0vD+UHFZn0IbqoLOJZpqvtZCTjl5pC6WOY1TP39J5WoLJtXXO0mwIDAQAB"
+        },
+        "sources": [
+            {
+                "url": "https://cdn.jsdelivr.net/gh/hufilter/hufilter@gh-pages/hufilter-ublock.txt",
+                "format": "Standard",
+                "support_url": "https://github.com/hufilter/hufilter"
+            }
+        ]
+    },
+    {
+        "uuid": "48796273-E783-431E-B864-44D3DCEA66DC",
+        "title": "Icelandic website ad blocker",
+        "desc": "Icelandic ABP List",
+        "langs": ["is"],
+        "list_text_component": {
+            "component_id": "oimegboipnkgekgoccmlljjlhhbjaoil",
+            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA62u5aa9kHm8s001ehhl+tuEE0bSSUxxBPfpSWC7Xr9zwObVpq63bSUAQqgqy0RW4RIq9X2etSmtpYryr10FglhV3TvMhZ/JxAX9VcPolrgG+tdMO+000+S5T5N/qpgZB1IycedaHNQ2NEFBSZEU7wqTIqHdYjAerkX8yC13Qg89FxU73Ygkq+1hQl1ZUr18f2gU6WpG5Nv1hpwwNQKJ5mn9K4d9uE2W7croqFANvEcvG6teAnw2JCWi42uabN8Ec35nff2r3BPCryCuAx3bsInasbDHNFlww6HXHBVfBr88y8v4hursSGmKShSFBMM2IGcRaF7Sia9fWGyQkBjiE7wIDAQAB"
+        },
+        "sources": [
+            {
+                "url": "https://raw.githubusercontent.com/brave/adblock-lists/master/custom/is.txt",
+                "format": "Standard",
+                "support_url": "https://github.com/brave/adblock-lists"
+            }
+        ]
+    },
+    {
+        "uuid": "15B64333-BAF9-4B77-ADC8-935433CD6F4C",
+        "title": "Latvian website ad blocker",
+        "desc": "Latvian List",
+        "langs": ["lv"],
+        "list_text_component": {
+            "component_id": "hkeaopcnlcfbmbogejmbipnnopjlpiph",
+            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzKJQ+ZqjJLJ6sBvIhxOmFV/jUJ2qIdEwTjvNd/zb5jmqiYhFTamZph1qoov3S7Ob6oFZIrluwhYP3i6koTOLFMRDpgV5m6K0xtAZyTxJn/YrEi0kqJ1DY+v9OOrtMOSZTF+Y5GkYsrG1F28KQm+pxJ9BVreGBx93Tis3CbGTGorPHbKe74IyYtWHEJ7azFhp7O7bLAMZfO3j/g7XRK4m+o2pW7pmd+YVdixQOblWK6ha6Ircowo8M/LwlQ1Z7EAmpXSUzEk4cGF6IlekyEou4SmcR+eNZcGpTc+KRNGe+gyZVkd8HuVlG4fphFQRGkNxl9/7ttZLohO5CGJQj5srVwIDAQAB"
+        },
+        "sources": [
+            {
+                "url": "https://raw.githubusercontent.com/Latvian-List/adblock-latvian/master/lists/latvian-list.txt",
+                "format": "Standard",
+                "support_url": "https://github.com/Latvian-List/adblock-latvian"
+            }
+        ]
+    },
+    {
+        "uuid": "7BC951C6-B0B8-4223-97FC-3C22605734FC",
+        "title": "Macedonian website ad blocker",
+        "desc": "Macedonian adBlock Filters",
+        "langs": ["mk"],
+        "list_text_component": {
+            "component_id": "jbjcimgbgpgbgkjalhlhgldfflklfgef",
+            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuSyMltFEvz64XeA6dNlPYLeptPDpjp8a5vntfZHMDnhyVXW1PTtOwJxFNF+5hWfo/FjMIWYzFwdVNvOY1SHv0oW/V172hSeFyBj/us8U9RQA8vtdrUvGXc4LCk8WeAuL7ebaTyq2BEhzulgMGFGyRPFVs+Hn2ve/UwkgpIe/ROalQ/FM50RS+u+NDtzS3Hod1Ec50weskwmLOH+1GyFYdXa0qPOPjvYadynrnJPTETNa5LGHgY4T77CPr/j0jRTHyYIsS/6Lz6Tx9vImMLJhSOFhPvSyzoQ0v+JrMecFuzh2KNS9RBbbCT+wpixHod2EjA6w+VZGhrJ6GIWN+lgHgQIDAQAB"
+        },
+        "sources": [
+            {
+                "url": "https://raw.githubusercontent.com/DeepSpaceHarbor/Macedonian-adBlock-Filters/master/Filters",
+                "format": "Standard",
+                "support_url": "https://github.com/DeepSpaceHarbor/Macedonian-adBlock-Filters"
+            }
+        ]
+    },
+    {
+        "uuid": "8BEDBAA8-4FE2-4FEA-82F2-81B8124A4A74",
+        "title": "Nordic website ad blocker",
+        "desc": "Dandelion Sprout's Nordic filters",
+        "langs": ["nb", "nn", "no", "da", "is"],
+        "list_text_component": {
+            "component_id": "kjdbffhfijkonelaglifggkchhmgmeli",
+            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr4vfQONxziLBVdFe1dHEjn5Ut+TcO62xyF0yfF9MVZqnOq00SNzyhUbXyzU6HxSzLU/eMkmTeIBJ3h+f4f3TPirs6s+EtqJkZ8R4er5aHhexGLKUt3uhkLv1IYYw9JimsfxMQOKWtz1O2MmbJJ5HcQ1jQQ613x6SOWtPpkeH0FdcwSiV83DJMVUjVFNwBdl2zjqulQP1M6geNt6eSNN++p2oB+K5kfpMAPopRuRfhZ1spDSm65qfBGGYfgPl6FanfFpTMm/U/vC76KeoMW/xpQw3s1TQeQDY3QywBWasUxmxiJN0DRsVapCAFqT0dXQ+Q3GCCCGPSB1+EUusnSJpgQIDAQAB"
+        },
+        "sources": [
+            {
+                "url": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianList.txt",
+                "format": "Standard",
+                "support_url": "https://github.com/DandelionSprout/adfilt/issues"
+            }
+        ]
+    },
+    {
+        "uuid": "1088D292-2369-4D40-9BDF-C7DC03C05966",
+        "title": "Russian website ad blocker - AdGuard Russian",
+        "desc": "AdGuard Russian filter",
+        "langs": [],
+        "list_text_component": {
+            "component_id": "jiajbjlakknofnkmlokcbanjbajpbdkl",
+            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvmC+nOMvt+lDivZj50XLbNPrcye4W7en/zP+CqvSVZ+MLwcH6oOF/YtLqzVMl05JOAutllDiO0Kwme8E/EpJI5Tw/JIYTLSzm2t3hDbWMo7EB8WobkIp9vXIKjEsRaw/QQR0b6BoqclyunfCutQfM+dADwJStJypwQkUuZPV0Xgl8M9uPDO4srAcrAs5Afc4wIDRxgGL+yWlp/XE0eUrJk37pZY9invINbTlFUoN1g2C3fWaRZ+kuH7AtlHhucKLTHtQIYD/eh3bmq2+0eLcgC6dP87PhSADTujuUIHMG4QivBz8a9o4lmcvZLztjsf5eQDh8+D4En69/IMrpKM9mQIDAQAB"
+        },
+        "sources": [
+            {
+                "url": "https://filters.adtidy.org/extension/ublock/filters/1.txt",
+                "format": "Standard",
+                "support_url": "https://github.com/AdguardTeam/AdguardFilters#adguard-filters"
+            }
+        ]
+    },
+    {
+        "uuid": "1BE19EFD-9191-4560-878E-30ECA72B5B3C",
+        "title": "Turkish website ad blocker",
+        "desc": "AdGuard Turkish",
+        "langs": ["tr"],
+        "list_text_component": {
+            "component_id": "gomenlogbembmkbghmaoledggliepdef",
+            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2l4J/f1wAJESK4G74P/2aZMsK+r8oUGB2QIN3Ny5tFxONihjidt9wgmjXQvsR5AYhLamylmH3u9u8mo6NC4b0qVE6imybPgp9/Z826O4VOCBd3yVxe6TCf76tuLSRfUjzreqt3Q6ly0JxgaoKXTWOnu3aoQyg/MnBmZ+REpKcE6W0Pyts1/yGDWs4S37tS2uCEmd2Wi4pUWfmzDE/RtTbhNNxoLoa6GczoeSXZww5emW2LahpE6Y8wGz/mPwjbUn0//T2y4Uqn1/HfMANEF8/t8ykk7cWXB3HdA8abg2Vib+dweCIiV2ZDFcx0l0j/SGCIDKwQYWZZkfF3P7Hp/RwwIDAQAB"
+        },
+        "sources": [
+            {
+                "url": "https://filters.adtidy.org/extension/ublock/filters/13.txt",
+                "format": "Standard",
+                "support_url": "https://github.com/AdguardTeam/AdguardFilters#adguard-filters"
+            }
+        ]
+    },
+    {
+        "uuid": "564C3B75-8731-404C-AD7C-5683258BA0B0",
+        "title": "Experimental ad blocker",
+        "desc": "Qikfox Experimental Adblock Rules",
+        "langs": [],
+        "list_text_component": {
+            "component_id": "jcfckfokjmopfomnoebdkdhbhcgjfnbi",
+            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7PoRxGM/LMWIvZGE8UxNv56MHvtMyR8Sg/Gj3ZSX/XUemGHd9RmYDX/uQqGA6KIwU+26aH4GZ/sMj3JETIdZvscCDMsAhILoPAMIDxWtqpsLCOXALo+UKDtrRLpogtG9WvQmdxApyT+BqnEhXIQ2PDs+eEHsmJD9xO3FR2++haWXAV0QVgAe0V6AqT26ukDaNEKfEWfWJl8gcoutVkqdvdl5RU1vEgbXNcXnYpsJ4aNlO7RG07J4JUHw9LZ7CasQMWpFEFifBjeKQpMDg7bKXOD83D5TZ+Csw9V67FGeQeLg3uFDUdp+rXMOeSxH/4l8PtemQj9O5mUPUlL+UGH/iwIDAQAB"
+        },
+        "sources": [
+            {
+                "url": "https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/experimental.txt",
+                "format": "Standard",
+                "support_url": "https://github.com/brave/adblock-lists"
+            }
+        ]
+    },
+    {
         "uuid": "2707FF41-61BA-4B97-8285-676C67535CD8",
         "title": "uBlock Annoyances List (used with Fanboy Annoyances List)",
         "desc": "Removes Web Annoyances, Supplemental uBO list",
@@ -923,13 +1416,13 @@
         "sources": [
             {
                 "url": "https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty.txt",
-                "title": "Brave First-Party Specific Filters",
+                "title": "Qikfox First-Party Specific Filters",
                 "format": "Standard",
                 "support_url": "https://github.com/brave/adblock-lists"
             },
             {
                 "url": "https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty-regional.txt",
-                "title": "Brave First-Party Regional Filters",
+                "title": "Qikfox First-Party Regional Filters",
                 "format": "Standard",
                 "support_url": "https://github.com/brave/adblock-lists"
             }
